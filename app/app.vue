@@ -5,6 +5,7 @@
             <NuxtPage />
         </main>
         <Footer />
+        <WelcomeModal />
     </div>
 </template>
 

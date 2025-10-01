@@ -4,13 +4,8 @@
         <p class="subtitle">Browse all monsters from My Singing Monsters</p>
         
         <div class="filters">
-            <input 
-                v-model="searchQuery" 
-                type="text" 
-                placeholder="Search monsters..." 
-                class="search-input"
-            />
-            
+            <input v-model="searchQuery" type="text" placeholder="Search monsters..." class="search-input" />
+
             <select v-model="filterClass" class="filter-select">
                 <option value="">All Classes</option>
                 <option value="Natural">Natural</option>
@@ -22,7 +17,7 @@
                 <option value="Celestial">Celestial</option>
                 <option value="Legendary">Legendary</option>
             </select>
-            
+
             <select v-model="filterRarity" class="filter-select">
                 <option value="">All Rarities</option>
                 <option value="common">Common</option>
@@ -32,18 +27,10 @@
         </div>
         
         <div class="monster-grid">
-            <NuxtLink 
-                v-for="monster in filteredMonsters" 
-                :key="monster.name"
-                :to="`/monster/${getMonsterSlug(monster.name)}`"
-                class="monster-card"
-            >
-                <img 
-                    :src="getURLFromName(monster.name, false, 'monster')" 
-                    :alt="monster.name"
-                    class="monster-icon"
-                    @error="handleImageError"
-                />
+            <NuxtLink v-for="monster in filteredMonsters" :key="monster.name"
+                :to="`/monster/${getMonsterSlug(monster.name)}`" class="monster-card">
+                <img :src="getURLFromName(monster.name, false, 'monster')" :alt="monster.name" class="monster-icon"
+                    @error="handleImageError" loading="lazy" />
                 <h3>{{ monster.name }}</h3>
                 <div class="monster-meta">
                     <span :class="['badge', monster.rarity]">{{ monster.rarity }}</span>
@@ -56,7 +43,7 @@
                 </div>
             </NuxtLink>
         </div>
-        
+
         <div v-if="filteredMonsters.length === 0" class="no-results">
             <p>No monsters found matching your criteria.</p>
         </div>
@@ -77,7 +64,7 @@ const filteredMonsters = computed(() => {
         const matchesSearch = monster.name.toLowerCase().includes(searchQuery.value.toLowerCase());
         const matchesClass = !filterClass.value || monster.class === filterClass.value;
         const matchesRarity = !filterRarity.value || monster.rarity === filterRarity.value;
-        
+
         return matchesSearch && matchesClass && matchesRarity;
     });
 });

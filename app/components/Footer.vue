@@ -5,8 +5,12 @@
                 <div class="footer-section">
                     <h3>My Singing Monsters Wiki</h3>
                     <p>Your comprehensive resource for all things MSM</p>
+                    <a href="https://github.com/AlexanderEpolite/MySingingMonsters-wiki" target="_blank"
+                        rel="noopener noreferrer" class="github-link">
+                        <Icon name="uil:github" />
+                        <span>Contribute on GitHub</span>
+                    </a>
                 </div>
-                
                 <div class="footer-section">
                     <h4>Quick Links</h4>
                     <div class="footer-links">
@@ -16,17 +20,16 @@
                     </div>
                 </div>
             </div>
-            
             <div class="footer-disclaimers">
                 <p class="disclaimer">
-                    Portions of the materials used are trademarks and/or copyrighted works of Big Blue Bubble. 
-                    All rights reserved by Big Blue Bubble. This material is not official and is not endorsed by Big Blue Bubble.
+                    Portions of the materials used are trademarks and/or copyrighted works of Big Blue Bubble.
+                    All rights reserved by Big Blue Bubble. This material is not official and is not endorsed by Big
+                    Blue Bubble.
                 </p>
                 <p class="disclaimer">
                     Some information from this website obtained from MySingingMonsters Fandom, available from CC-BY-SA.
                 </p>
             </div>
-            
             <div class="footer-bottom">
                 <p>&copy; {{ currentYear }} My Singing Monsters Wiki. Fan-made resource.</p>
             </div>
@@ -34,11 +37,7 @@
     </footer>
 </template>
 
-<script setup lang="ts">
-const currentYear = new Date().getFullYear();
-</script>
-
-<style scoped>
+<style scoped lang="less">
 .footer {
     background-color: var(--ctp-mantle);
     border-top: 2px solid var(--ctp-surface0);
@@ -107,10 +106,49 @@ const currentYear = new Date().getFullYear();
 .footer-bottom {
     text-align: center;
     padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: center;
 }
 
 .footer-bottom p {
     color: var(--ctp-overlay0);
     font-size: 0.85rem;
 }
+
+.github-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--ctp-surface0);
+    border-radius: 8px;
+    color: var(--ctp-text);
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+.github-link:hover {
+    background-color: var(--ctp-surface1);
+    transform: translateY(-2px);
+}
+
+.github-link svg {
+    font-size: 1.2rem;
+}
 </style>
+
+<script lang="ts">
+import { defineComponent } from "vue";
+
+export default defineComponent({
+    data() {
+        return {
+            currentYear: new Date().getFullYear()
+        };
+    }
+});
+</script>
