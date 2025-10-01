@@ -14,6 +14,8 @@ Order of Vue blocks:
 
 Make sure to use double quotes always for strings, never use single quotes.  Always end JS and TS code with semi-colons, and ALWAYS use four space indents!
 
+NEVER use <script setup>, only <script>
+
 Prefer to split HUGE files into smaller ones when possible, but in Vue, do not put the CSS into its own file.
 
 Default to using Bun instead of Node.js.

@@ -10,7 +10,7 @@
             <NuxtLink to="/guides" class="back-link">← Back to Guides</NuxtLink>
         </div>
         
-        <div v-else>
+        <div v-else-if="content">
             <div class="guide-content" v-html="content"></div>
             
             <a :href="`https://github.com/AlexanderEpolite/MySingingMonsters-wiki/edit/main/app/data/guides/${guideName}.md`"
