@@ -71,12 +71,14 @@
     align-items: center;
     z-index: 9999;
     padding: 1rem;
+    overflow-y: auto;
 }
 
 .modal-container {
     width: 100%;
     max-width: 500px;
     animation: slideIn 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    margin: auto;
 }
 
 .modal-content {
@@ -90,12 +92,14 @@
         color: var(--ctp-mauve);
         margin-bottom: 1rem;
         font-size: 1.75rem;
+        line-height: 1.2;
     }
 
     p {
         color: var(--ctp-text);
         margin-bottom: 1.5rem;
         line-height: 1.6;
+        font-size: 1rem;
     }
 
     .disclaimer {
@@ -103,6 +107,7 @@
         margin-bottom: 2rem;
         font-size: 0.9rem;
         color: var(--ctp-subtext0);
+        line-height: 1.5;
     }
 }
 
@@ -111,29 +116,27 @@
     flex-direction: column;
     gap: 1rem;
     margin-bottom: 1.5rem;
-    flex-wrap: wrap;
 }
 
 .social-link {
-    flex: 1;
-    min-width: 180px;
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
     padding: 0.75rem 1rem;
     border-radius: 8px;
-    font-size: 1.95rem;
+    font-size: 1.5rem;
     font-weight: 500;
     transition: all 0.2s ease;
     text-decoration: none;
+    width: 100%;
 
     span {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
-    &:hover {
-        transform: translateY(-2px);
+    &:active {
+        transform: scale(0.98);
     }
 }
 
@@ -160,24 +163,28 @@
 .modal-actions {
     display: flex;
     gap: 1rem;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .btn-primary,
 .btn-secondary {
-    flex: 1;
-    min-width: 150px;
-    padding: 0.75rem 1.5rem;
+    width: 100%;
+    padding: 0.875rem 1.5rem;
     border: none;
     border-radius: 0.5rem;
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
 
     &:disabled {
         opacity: 0.5;
         cursor: not-allowed;
+    }
+
+    &:active:not(:disabled) {
+        transform: scale(0.98);
     }
 }
 
@@ -187,7 +194,6 @@
 
     &:hover:not(:disabled) {
         background-color: var(--ctp-pink);
-        transform: translateY(-2px);
         box-shadow: 0 4px 12px rgba(203, 166, 247, 0.4);
     }
 }
@@ -198,7 +204,6 @@
 
     &:hover:not(:disabled) {
         background-color: var(--ctp-surface2);
-        transform: translateY(-2px);
     }
 }
 
@@ -246,22 +251,116 @@
     }
 }
 
+//mobile optimizations
 @media (max-width: 640px) {
+    .modal-overlay {
+        padding: 0.5rem;
+        align-items: flex-start;
+        padding-top: 2rem;
+    }
+
+    .modal-container {
+        max-width: 100%;
+    }
+
+    .modal-content {
+        padding: 1.5rem;
+        border-radius: 0.75rem;
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.875rem;
+        }
+
+        p {
+            font-size: 0.95rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .disclaimer {
+            font-size: 0.85rem;
+            margin-top: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+    }
+
     .social-links {
-        flex-direction: column;
+        gap: 0.75rem;
+        margin-bottom: 1.25rem;
     }
 
     .social-link {
-        width: 100%;
+        padding: 0.875rem 1rem;
+        font-size: 1.35rem;
+
+        span {
+            font-size: 0.95rem;
+        }
     }
 
     .modal-actions {
-        flex-direction: column;
+        gap: 0.75rem;
     }
-    
+
     .btn-primary,
     .btn-secondary {
-        width: 100%;
+        padding: 0.875rem 1rem;
+        font-size: 0.95rem;
+    }
+}
+
+//extra small mobile devices
+@media (max-width: 380px) {
+    .modal-content {
+        padding: 1.25rem;
+
+        h2 {
+            font-size: 1.35rem;
+        }
+
+        p {
+            font-size: 0.9rem;
+        }
+    }
+
+    .social-link {
+        font-size: 1.25rem;
+
+        span {
+            font-size: 0.9rem;
+        }
+    }
+}
+
+//landscape mobile
+@media (max-height: 600px) and (orientation: landscape) {
+    .modal-overlay {
+        align-items: flex-start;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .modal-content {
+        padding: 1.25rem;
+
+        h2 {
+            font-size: 1.35rem;
+            margin-bottom: 0.75rem;
+        }
+
+        p {
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .disclaimer {
+            margin-top: 1rem;
+            margin-bottom: 1.25rem;
+        }
+    }
+
+    .social-links {
+        margin-bottom: 1rem;
     }
 }
 </style>

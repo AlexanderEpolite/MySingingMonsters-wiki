@@ -15,7 +15,7 @@
     </nav>
 </template>
 
-<style scoped>
+<style scoped lang="less">
 .top-nav {
     background-color: var(--ctp-mantle);
     border-bottom: 2px solid var(--ctp-surface0); 
@@ -49,35 +49,53 @@
     display: flex;
     gap: 2rem;
     align-items: center;
-}
 
-.nav-links a {
-    color: var(--ctp-text);
-    font-weight: 500;
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-    transition: all 0.2s ease;
-}
+    a {
+        color: var(--ctp-text);
+        font-weight: 500;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        transition: all 0.2s ease;
+        white-space: nowrap;
 
-.nav-links a:hover {
-    background-color: var(--ctp-surface0);
-    color: var(--ctp-lavender);
-}
+        &:hover {
+            background-color: var(--ctp-surface0);
+            color: var(--ctp-lavender);
+        }
 
-.nav-links a.router-link-active {
-    background-color: var(--ctp-surface1);
-    color: var(--ctp-mauve);
+        &.router-link-active {
+            background-color: var(--ctp-surface1);
+            color: var(--ctp-mauve);
+        }
+    }
 }
 
 @media (max-width: 768px) {
+    .top-nav {
+        position: static;
+        padding: 0.75rem 0;
+    }
+    
     .nav-content {
         flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .logo h1 {
+        font-size: 1.25rem;
+        text-align: center;
     }
     
     .nav-links {
+        width: 100%;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem;
+        gap: 0.5rem;
+
+        a {
+            padding: 0.4rem 0.75rem;
+            font-size: 0.9rem;
+        }
     }
 }
 </style>
