@@ -6,7 +6,7 @@ import {
 
 export const monsters: Monster[] = [
     {
-        "name": "Shrubb",
+        "name": "shrubb",
         "localized_names": [
             {
                 "language": "en",
@@ -600,7 +600,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Drumpler",
+        "name": "drumpler",
         "localized_names": [
             {
                 "language": "en",
@@ -2089,7 +2089,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "T-Rox",
+        "name": "t-rox",
         "localized_names": [
             {
                 "language": "en",
@@ -2335,7 +2335,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Toe Jammer",
+        "name": "toe jammer",
         "localized_names": [
             {
                 "language": "en",
@@ -2801,7 +2801,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Entbrat",
+        "name": "entbrat",
         "localized_names": [
             {
                 "language": "en",
@@ -3385,7 +3385,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Oaktopus",
+        "name": "oaktopus",
         "localized_names": [
             {
                 "language": "en",
@@ -4573,7 +4573,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tweedle",
+        "name": "tweedle",
         "localized_names": [
             {
                 "language": "en",
@@ -6000,7 +6000,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Spunge",
+        "name": "spunge",
         "localized_names": [
             {
                 "language": "en",
@@ -7247,7 +7247,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Cybop",
+        "name": "cybop",
         "localized_names": [
             {
                 "language": "en",
@@ -7489,7 +7489,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "PomPom",
+        "name": "pompom",
         "localized_names": [
             {
                 "language": "en",
@@ -7771,7 +7771,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Riff",
+        "name": "riff",
         "localized_names": [
             {
                 "language": "en",
@@ -7902,7 +7902,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Reedling",
+        "name": "reedling",
         "localized_names": [
             {
                 "language": "en",
@@ -8219,7 +8219,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shellbeat",
+        "name": "shellbeat",
         "localized_names": [
             {
                 "language": "en",
@@ -8440,7 +8440,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Punkleton",
+        "name": "punkleton",
         "localized_names": [
             {
                 "language": "en",
@@ -8707,7 +8707,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Quarrister",
+        "name": "quarrister",
         "localized_names": [
             {
                 "language": "en",
@@ -9139,7 +9139,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Schmoochle",
+        "name": "schmoochle",
         "localized_names": [
             {
                 "language": "en",
@@ -9376,7 +9376,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Blabbit",
+        "name": "blabbit",
         "localized_names": [
             {
                 "language": "en",
@@ -9588,7 +9588,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Wubbox",
+        "name": "wubbox",
         "localized_names": [
             {
                 "language": "en",
@@ -10029,7 +10029,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Ghazt",
+        "name": "ghazt",
         "localized_names": [
             {
                 "language": "en",
@@ -10509,7 +10509,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Reebro",
+        "name": "reebro",
         "localized_names": [
             {
                 "language": "en",
@@ -10708,7 +10708,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Hoola",
+        "name": "hoola",
         "localized_names": [
             {
                 "language": "en",
@@ -11604,7 +11604,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Whisp",
+        "name": "whisp",
         "localized_names": [
             {
                 "language": "en",
@@ -11820,7 +11820,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Arackulele",
+        "name": "arackulele",
         "localized_names": [
             {
                 "language": "en",
@@ -12213,7 +12213,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Boodoo",
+        "name": "boodoo",
         "localized_names": [
             {
                 "language": "en",
@@ -12395,7 +12395,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugabass",
+        "name": "shugabass",
         "localized_names": [
             {
                 "language": "en",
@@ -12569,7 +12569,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugarock",
+        "name": "shugarock",
         "localized_names": [
             {
                 "language": "en",
@@ -12743,7 +12743,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugitar",
+        "name": "shugitar",
         "localized_names": [
             {
                 "language": "en",
@@ -12917,7 +12917,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugajo",
+        "name": "shugajo",
         "localized_names": [
             {
                 "language": "en",
@@ -13091,7 +13091,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugabuzz",
+        "name": "shugabuzz",
         "localized_names": [
             {
                 "language": "en",
@@ -13265,7 +13265,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugabeats",
+        "name": "shugabeats",
         "localized_names": [
             {
                 "language": "en",
@@ -13439,7 +13439,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugavox",
+        "name": "shugavox",
         "localized_names": [
             {
                 "language": "en",
@@ -14161,7 +14161,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Kazilleon",
+        "name": "kazilleon",
         "localized_names": [
             {
                 "language": "en",
@@ -14342,7 +14342,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Viveine",
+        "name": "viveine",
         "localized_names": [
             {
                 "language": "en",
@@ -14594,122 +14594,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Shugabush",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Shugabush"
-            }
-        ],
-        "beds_required": 5,
-        "rarity": "common",
-        "elements": [
-            "Legendary"
-        ],
-        "class": "Shugafam",
-        "islands": [
-            "Plant Island",
-            "Shugabush Island",
-            "Gold Island"
-        ],
-        "earnings": [
-            {
-                "island": "Shugabush Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 120
-                    },
-                    {
-                        "amount": 248,
-                        "level": 20,
-                        "maximum": 2480
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 200,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Shugabush Island",
-                "cost": 1000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "bowgart",
-                        "parent_2_name": "clamble",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 126000,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "deedge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "bowgart",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Shugabush's Lair",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "deedge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugabass",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Shugabush's Lair",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "bellowfish",
         "localized_names": [
             {
@@ -14922,7 +14806,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Dragong",
+        "name": "dragong",
         "localized_names": [
             {
                 "language": "en",
@@ -15375,7 +15259,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Fung Pray",
+        "name": "fung pray",
         "localized_names": [
             {
                 "language": "en",
@@ -15778,7 +15662,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Yawstrich",
+        "name": "yawstrich",
         "localized_names": [
             {
                 "language": "en",
@@ -16009,213 +15893,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "G'joob",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "G'joob"
-            }
-        ],
-        "beds_required": 3,
-        "rarity": "common",
-        "elements": [
-            "Mythical"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Plant Island",
-            "Mythical Island",
-            "Mirror Plant Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 432
-                    },
-                    {
-                        "amount": 20,
-                        "level": 10,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 22,
-                        "level": 11,
-                        "maximum": 528
-                    },
-                    {
-                        "amount": 24,
-                        "level": 12,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 26,
-                        "level": 13,
-                        "maximum": 624
-                    },
-                    {
-                        "amount": 28,
-                        "level": 14,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 30,
-                        "level": 15,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 38,
-                        "level": 16,
-                        "maximum": 912
-                    },
-                    {
-                        "amount": 46,
-                        "level": 17,
-                        "maximum": 1104
-                    },
-                    {
-                        "amount": 52,
-                        "level": 18,
-                        "maximum": 1248
-                    },
-                    {
-                        "amount": 58,
-                        "level": 19,
-                        "maximum": 1392
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1488
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 225,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Mythical Island",
-                "cost": 500,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "pummel",
-                        "parent_2_name": "t-rox",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 64800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "g'joob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "wubbox-stockpile",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "mountain-morsel",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "thumpies-totem",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "g'joob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "wubbox-stockpile",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "mountain-morsel",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "thumpies-totem",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Rare Furcorn",
+        "name": "rare furcorn",
         "localized_names": [
             {
                 "language": "en",
@@ -16800,7 +16478,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Pummel",
+        "name": "rare pummel",
         "localized_names": [
             {
                 "language": "en",
@@ -17227,7 +16905,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Fwog",
+        "name": "rare fwog",
         "localized_names": [
             {
                 "language": "en",
@@ -17351,7 +17029,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare PomPom",
+        "name": "rare pompom",
         "localized_names": [
             {
                 "language": "en",
@@ -17505,7 +17183,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Spunge",
+        "name": "rare spunge",
         "localized_names": [
             {
                 "language": "en",
@@ -17841,7 +17519,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Cybop",
+        "name": "rare cybop",
         "localized_names": [
             {
                 "language": "en",
@@ -18264,7 +17942,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Congle",
+        "name": "rare congle",
         "localized_names": [
             {
                 "language": "en",
@@ -18493,7 +18171,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Clamble",
+        "name": "rare clamble",
         "localized_names": [
             {
                 "language": "en",
@@ -18971,7 +18649,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Maw",
+        "name": "rare maw",
         "localized_names": [
             {
                 "language": "en",
@@ -19304,7 +18982,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Oaktopus",
+        "name": "rare oaktopus",
         "localized_names": [
             {
                 "language": "en",
@@ -19579,7 +19257,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Reedling",
+        "name": "rare reedling",
         "localized_names": [
             {
                 "language": "en",
@@ -19813,7 +19491,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Deedge",
+        "name": "rare deedge",
         "localized_names": [
             {
                 "language": "en",
@@ -20048,7 +19726,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bowgart",
+        "name": "rare bowgart",
         "localized_names": [
             {
                 "language": "en",
@@ -20256,7 +19934,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Scups",
+        "name": "rare scups",
         "localized_names": [
             {
                 "language": "en",
@@ -20670,7 +20348,7 @@ export const monsters: Monster[] = [
         "island_likes": []
     },
     {
-        "name": "Rare Riff",
+        "name": "rare riff",
         "localized_names": [
             {
                 "language": "en",
@@ -20793,7 +20471,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Drumpler",
+        "name": "rare drumpler",
         "localized_names": [
             {
                 "language": "en",
@@ -21007,7 +20685,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Shellbeat",
+        "name": "rare shellbeat",
         "localized_names": [
             {
                 "language": "en",
@@ -21433,7 +21111,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Quarrister",
+        "name": "rare quarrister",
         "localized_names": [
             {
                 "language": "en",
@@ -22088,7 +21766,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Toe Jammer",
+        "name": "rare toe jammer",
         "localized_names": [
             {
                 "language": "en",
@@ -22759,7 +22437,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Noggin",
+        "name": "rare noggin",
         "localized_names": [
             {
                 "language": "en",
@@ -23140,7 +22818,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Kayna",
+        "name": "kayna",
         "localized_names": [
             {
                 "language": "en",
@@ -23992,7 +23670,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Whaddle",
+        "name": "whaddle",
         "localized_names": [
             {
                 "language": "en",
@@ -24520,7 +24198,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Boskus",
+        "name": "boskus",
         "localized_names": [
             {
                 "language": "en",
@@ -24954,7 +24632,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Phangler",
+        "name": "phangler",
         "localized_names": [
             {
                 "language": "en",
@@ -25298,7 +24976,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Glowl",
+        "name": "glowl",
         "localized_names": [
             {
                 "language": "en",
@@ -25614,7 +25292,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Ziggurab",
+        "name": "ziggurab",
         "localized_names": [
             {
                 "language": "en",
@@ -25862,7 +25540,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Sooza",
+        "name": "sooza",
         "localized_names": [
             {
                 "language": "en",
@@ -26633,7 +26311,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Woolabee",
+        "name": "woolabee",
         "localized_names": [
             {
                 "language": "en",
@@ -26830,7 +26508,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rootitoot",
+        "name": "rootitoot",
         "localized_names": [
             {
                 "language": "en",
@@ -27162,7 +26840,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Flum Ox",
+        "name": "flum ox",
         "localized_names": [
             {
                 "language": "en",
@@ -27713,7 +27391,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Thrumble",
+        "name": "thrumble",
         "localized_names": [
             {
                 "language": "en",
@@ -28063,7 +27741,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Noggin",
+        "name": "noggin",
         "localized_names": [
             {
                 "language": "en",
@@ -28337,1371 +28015,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "noggin",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Noggin"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Earth"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "The Colossingum",
-            "Gold Island",
-            "Fire Haven",
-            "Faerie Island",
-            "Bone Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 4,
-                        "level": 1,
-                        "maximum": 18
-                    },
-                    {
-                        "amount": 6,
-                        "level": 2,
-                        "maximum": 29
-                    },
-                    {
-                        "amount": 10,
-                        "level": 3,
-                        "maximum": 43
-                    },
-                    {
-                        "amount": 13,
-                        "level": 4,
-                        "maximum": 58
-                    },
-                    {
-                        "amount": 16,
-                        "level": 5,
-                        "maximum": 72
-                    },
-                    {
-                        "amount": 19,
-                        "level": 6,
-                        "maximum": 86
-                    },
-                    {
-                        "amount": 22,
-                        "level": 7,
-                        "maximum": 101
-                    },
-                    {
-                        "amount": 26,
-                        "level": 8,
-                        "maximum": 115
-                    },
-                    {
-                        "amount": 29,
-                        "level": 9,
-                        "maximum": 130
-                    },
-                    {
-                        "amount": 32,
-                        "level": 10,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 35,
-                        "level": 11,
-                        "maximum": 158
-                    },
-                    {
-                        "amount": 38,
-                        "level": 12,
-                        "maximum": 173
-                    },
-                    {
-                        "amount": 42,
-                        "level": 13,
-                        "maximum": 187
-                    },
-                    {
-                        "amount": 45,
-                        "level": 14,
-                        "maximum": 202
-                    },
-                    {
-                        "amount": 48,
-                        "level": 15,
-                        "maximum": 216
-                    },
-                    {
-                        "amount": 50,
-                        "level": 16,
-                        "maximum": 226
-                    },
-                    {
-                        "amount": 52,
-                        "level": 17,
-                        "maximum": 235
-                    },
-                    {
-                        "amount": 53,
-                        "level": 18,
-                        "maximum": 242
-                    },
-                    {
-                        "amount": 55,
-                        "level": 19,
-                        "maximum": 247
-                    },
-                    {
-                        "amount": 55,
-                        "level": 20,
-                        "maximum": 250
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Composer Island",
-                "cost": 2000,
-                "unit": "Coins"
-            },
-            {
-                "island": "The Colossingum",
-                "cost": 25,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "entbrat",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "riff",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "shellbeat",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "quarrister",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Fire Haven",
-                "combos": [
-                    {
-                        "parent_1_name": "tring",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Faerie Island",
-                "combos": [
-                    {
-                        "parent_1_name": "pladdie",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Bone Island",
-                "combos": [
-                    {
-                        "parent_1_name": "plinkajou",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 5,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Shellbeat",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Fire Haven",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Kayna",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Faerie Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Kayna",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Bone Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Kayna",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Travelers' Sign",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Trumplite",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Bowgart",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Bowgart"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Water",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Composer Island",
-            "Mirror Plant Island",
-            "Mirror Cold Island"
-        ],
-        "earnings": [
-            {
-                "island": "Plant Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 28,
-                        "level": 5,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 68,
-                        "level": 15,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 92,
-                        "level": 20,
-                        "maximum": 1080
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 28,
-                        "level": 5,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 68,
-                        "level": 15,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 92,
-                        "level": 20,
-                        "maximum": 1080
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "currency": "Shards",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 1
-                    },
-                    {
-                        "amount": 5,
-                        "level": 5,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 10,
-                        "level": 10,
-                        "maximum": 10
-                    },
-                    {
-                        "amount": 15,
-                        "level": 15,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 20
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 50,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Cold Island",
-                "cost": 50,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Composer Island",
-                "cost": 5,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "furcorn",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "furcorn",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "combos": [
-                    {
-                        "parent_1_name": "shugabush",
-                        "parent_2_name": "oaktopus",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 43200,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "decoration",
-                        "name": "dragon-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "furcorn",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "furcorn",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Fwog",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Fwog"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Water",
-            "Earth"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 8000
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 15,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "shrubb",
-                        "parent_2_name": "maw",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 1800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shrubb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shrubb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-log",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shrubb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Furcorn",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Furcorn"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 72
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 120
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 168
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 216
-                    },
-                    {
-                        "amount": 20,
-                        "level": 10,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 22,
-                        "level": 11,
-                        "maximum": 264
-                    },
-                    {
-                        "amount": 24,
-                        "level": 12,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 26,
-                        "level": 13,
-                        "maximum": 312
-                    },
-                    {
-                        "amount": 28,
-                        "level": 14,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 30,
-                        "level": 15,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 32,
-                        "level": 16,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 34,
-                        "level": 17,
-                        "maximum": 408
-                    },
-                    {
-                        "amount": 36,
-                        "level": 18,
-                        "maximum": 432
-                    },
-                    {
-                        "amount": 38,
-                        "level": 19,
-                        "maximum": 456
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 480
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "currency": "Shards",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 2,
-                        "level": 2,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 3,
-                        "level": 3,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 4,
-                        "level": 4,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 5,
-                        "level": 5,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 6,
-                        "level": 6,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 7,
-                        "level": 7,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 8,
-                        "level": 8,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 9,
-                        "level": 9,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 10,
-                        "level": 10,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 11,
-                        "level": 11,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 12,
-                        "level": 12,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 13,
-                        "level": 13,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 14,
-                        "level": 14,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 15,
-                        "level": 15,
-                        "maximum": 15
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Cold Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Composer Island",
-                "cost": 5,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 28800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Dragon-Pumpkins",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "dandidoo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Smunkin Patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Smunkin Patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugajo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugarock",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Potbelly",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Potbelly"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plant"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "Plant Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 1440
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 1440
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 1440
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 250,
-                "unit": "Coins"
-            },
-            {
-                "island": "Shugabush Island",
-                "cost": 5,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": []
-            }
-        ],
-        "breeding_time": 300,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shrubb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "oaktopus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shrubb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugarock",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugabeats",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Dragon Tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Repatillo",
+        "name": "repatillo",
         "localized_names": [
             {
                 "language": "en",
@@ -30399,7 +28713,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Yelmut",
+        "name": "yelmut",
         "localized_names": [
             {
                 "language": "en",
@@ -30639,7 +28953,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Dwumrohl",
+        "name": "dwumrohl",
         "localized_names": [
             {
                 "language": "en",
@@ -30847,7 +29161,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Poewk",
+        "name": "poewk",
         "localized_names": [
             {
                 "language": "en",
@@ -30986,7 +29300,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Zynth",
+        "name": "zynth",
         "localized_names": [
             {
                 "language": "en",
@@ -31242,7 +29556,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Brump",
+        "name": "brump",
         "localized_names": [
             {
                 "language": "en",
@@ -31517,7 +29831,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Ghazt",
+        "name": "rare ghazt",
         "localized_names": [
             {
                 "language": "en",
@@ -31844,374 +30158,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Thumpies",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Thumpies"
-            }
-        ],
-        "beds_required": 3,
-        "rarity": "common",
-        "elements": [
-            "Cold",
-            "Plant",
-            "Air"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Cold Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 16,
-                        "level": 2,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 20,
-                        "level": 3,
-                        "maximum": 600
-                    },
-                    {
-                        "amount": 24,
-                        "level": 4,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 28,
-                        "level": 5,
-                        "maximum": 840
-                    },
-                    {
-                        "amount": 32,
-                        "level": 6,
-                        "maximum": 960
-                    },
-                    {
-                        "amount": 36,
-                        "level": 7,
-                        "maximum": 1080
-                    },
-                    {
-                        "amount": 40,
-                        "level": 8,
-                        "maximum": 1200
-                    },
-                    {
-                        "amount": 44,
-                        "level": 9,
-                        "maximum": 1320
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 1440
-                    },
-                    {
-                        "amount": 52,
-                        "level": 11,
-                        "maximum": 1560
-                    },
-                    {
-                        "amount": 56,
-                        "level": 12,
-                        "maximum": 1680
-                    },
-                    {
-                        "amount": 60,
-                        "level": 13,
-                        "maximum": 1800
-                    },
-                    {
-                        "amount": 64,
-                        "level": 14,
-                        "maximum": 1920
-                    },
-                    {
-                        "amount": 68,
-                        "level": 15,
-                        "maximum": 2040
-                    },
-                    {
-                        "amount": 72,
-                        "level": 16,
-                        "maximum": 2160
-                    },
-                    {
-                        "amount": 76,
-                        "level": 17,
-                        "maximum": 2280
-                    },
-                    {
-                        "amount": 80,
-                        "level": 18,
-                        "maximum": 2400
-                    },
-                    {
-                        "amount": 84,
-                        "level": 19,
-                        "maximum": 2520
-                    },
-                    {
-                        "amount": 88,
-                        "level": 20,
-                        "maximum": 2640
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 16,
-                        "level": 2,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 20,
-                        "level": 3,
-                        "maximum": 600
-                    },
-                    {
-                        "amount": 24,
-                        "level": 4,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 28,
-                        "level": 5,
-                        "maximum": 840
-                    },
-                    {
-                        "amount": 32,
-                        "level": 6,
-                        "maximum": 960
-                    },
-                    {
-                        "amount": 36,
-                        "level": 7,
-                        "maximum": 1080
-                    },
-                    {
-                        "amount": 40,
-                        "level": 8,
-                        "maximum": 1200
-                    },
-                    {
-                        "amount": 44,
-                        "level": 9,
-                        "maximum": 1320
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 1440
-                    },
-                    {
-                        "amount": 52,
-                        "level": 11,
-                        "maximum": 1560
-                    },
-                    {
-                        "amount": 56,
-                        "level": 12,
-                        "maximum": 1680
-                    },
-                    {
-                        "amount": 60,
-                        "level": 13,
-                        "maximum": 1800
-                    },
-                    {
-                        "amount": 64,
-                        "level": 14,
-                        "maximum": 1920
-                    },
-                    {
-                        "amount": 68,
-                        "level": 15,
-                        "maximum": 2040
-                    },
-                    {
-                        "amount": 72,
-                        "level": 16,
-                        "maximum": 2160
-                    },
-                    {
-                        "amount": 76,
-                        "level": 17,
-                        "maximum": 2280
-                    },
-                    {
-                        "amount": 80,
-                        "level": 18,
-                        "maximum": 2400
-                    },
-                    {
-                        "amount": 84,
-                        "level": 19,
-                        "maximum": 2520
-                    },
-                    {
-                        "amount": 88,
-                        "level": 20,
-                        "maximum": 2640
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 150,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "pango",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "mammott",
-                        "parent_2_name": "dandidoo",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "furcorn",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "pango",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "mammott",
-                        "parent_2_name": "dandidoo",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "furcorn",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 43200,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "pango",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "dandidoo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "pango",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "dandidoo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "thumpies",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "eerie-remains",
-                        "mystery": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Zuuker",
+        "name": "zuuker",
         "localized_names": [
             {
                 "language": "en",
@@ -32353,7 +30300,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Humbug",
+        "name": "rare humbug",
         "localized_names": [
             {
                 "language": "en",
@@ -32784,7 +30731,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Fung Pray",
+        "name": "rare fung pray",
         "localized_names": [
             {
                 "language": "en",
@@ -32964,592 +30911,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Pango",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Pango"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Cold Island",
-            "Air Island",
-            "Earth Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 432
-                    },
-                    {
-                        "amount": 20,
-                        "level": 10,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 22,
-                        "level": 11,
-                        "maximum": 528
-                    },
-                    {
-                        "amount": 24,
-                        "level": 12,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 26,
-                        "level": 13,
-                        "maximum": 624
-                    },
-                    {
-                        "amount": 28,
-                        "level": 14,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 30,
-                        "level": 15,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 32,
-                        "level": 16,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 34,
-                        "level": 17,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 36,
-                        "level": 18,
-                        "maximum": 864
-                    },
-                    {
-                        "amount": 38,
-                        "level": 19,
-                        "maximum": 912
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 30,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 28800,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "riff",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "quarrister",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Clamble",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Clamble"
-            }
-        ],
-        "beds_required": 3,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Earth",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "Plant Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 120,
-                        "level": 20,
-                        "maximum": 25920
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 120,
-                        "level": 20,
-                        "maximum": 25920
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 120,
-                        "level": 20,
-                        "maximum": 25920
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 120,
-                        "level": 20,
-                        "maximum": 25920
-                    }
-                ]
-            },
-            {
-                "island": "Tribal Island",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 120,
-                        "level": 20,
-                        "maximum": 25920
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 150,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "drumpler",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "furcorn",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "mammott",
-                        "parent_2_name": "shrubb",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "drumpler",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "furcorn",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "mammott",
-                        "parent_2_name": "shrubb",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "drumpler",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "furcorn",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "mammott",
-                        "parent_2_name": "shrubb",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 43200,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "drumpler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Barrb",
+        "name": "barrb",
         "localized_names": [
             {
                 "language": "en",
@@ -33773,7 +31135,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tympa",
+        "name": "tympa",
         "localized_names": [
             {
                 "language": "en",
@@ -37241,7 +34603,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Do",
+        "name": "do",
         "localized_names": [
             {
                 "language": "en",
@@ -41548,7 +38910,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Dragong",
+        "name": "rare dragong",
         "localized_names": [
             {
                 "language": "en",
@@ -41723,7 +39085,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Hoola",
+        "name": "rare hoola",
         "localized_names": [
             {
                 "language": "en",
@@ -41930,244 +39292,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "entbrat",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Entbrat"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Earth",
-            "Water",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Gold Island",
-            "Tribal Island",
-            "The Colossingum",
-            "Composer Island",
-            "Mirror Plant Island"
-        ],
-        "earnings": [
-            {
-                "island": "Plant Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 16,
-                        "level": 2,
-                        "maximum": 256
-                    },
-                    {
-                        "amount": 20,
-                        "level": 3,
-                        "maximum": 320
-                    },
-                    {
-                        "amount": 24,
-                        "level": 4,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 28,
-                        "level": 5,
-                        "maximum": 448
-                    },
-                    {
-                        "amount": 32,
-                        "level": 6,
-                        "maximum": 512
-                    },
-                    {
-                        "amount": 36,
-                        "level": 7,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 40,
-                        "level": 8,
-                        "maximum": 640
-                    },
-                    {
-                        "amount": 44,
-                        "level": 9,
-                        "maximum": 704
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 56,
-                        "level": 11,
-                        "maximum": 1920
-                    },
-                    {
-                        "amount": 64,
-                        "level": 12,
-                        "maximum": 3072
-                    },
-                    {
-                        "amount": 72,
-                        "level": 13,
-                        "maximum": 4608
-                    },
-                    {
-                        "amount": 80,
-                        "level": 14,
-                        "maximum": 6144
-                    },
-                    {
-                        "amount": 88,
-                        "level": 15,
-                        "maximum": 7680
-                    },
-                    {
-                        "amount": 96,
-                        "level": 16,
-                        "maximum": 9216
-                    },
-                    {
-                        "amount": 104,
-                        "level": 17,
-                        "maximum": 10752
-                    },
-                    {
-                        "amount": 112,
-                        "level": 18,
-                        "maximum": 12288
-                    },
-                    {
-                        "amount": 120,
-                        "level": 19,
-                        "maximum": 13824
-                    },
-                    {
-                        "amount": 128,
-                        "level": 20,
-                        "maximum": 15360
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 150,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "t-rox",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "bowgart",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "clamble",
-                        "parent_2_name": "toe_jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pummel",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "shrubb",
-                        "parent_2_name": "maw",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "drumpler",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "furcorn",
-                        "parent_2_name": "fwog",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 86400,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "t-rox",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "guitree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag_tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "t-rox",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "guitree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag_tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Scaratar",
+        "name": "scaratar",
         "localized_names": [
             {
                 "language": "en",
@@ -42381,7 +39506,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Candelavra",
+        "name": "candelavra",
         "localized_names": [
             {
                 "language": "en",
@@ -42995,7 +40120,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Gheegur",
+        "name": "gheegur",
         "localized_names": [
             {
                 "language": "en",
@@ -43151,7 +40276,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Loodvigg",
+        "name": "loodvigg",
         "localized_names": [
             {
                 "language": "en",
@@ -43628,7 +40753,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Reebro",
+        "name": "rare reebro",
         "localized_names": [
             {
                 "language": "en",
@@ -43776,7 +40901,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Jeeode",
+        "name": "rare jeeode",
         "localized_names": [
             {
                 "language": "en",
@@ -44103,7 +41228,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Whajje",
+        "name": "whajje",
         "localized_names": [
             {
                 "language": "en",
@@ -44958,7 +42083,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Krillby",
+        "name": "krillby",
         "localized_names": [
             {
                 "language": "en",
@@ -45159,7 +42284,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Punkleton",
+        "name": "rare punkleton",
         "localized_names": [
             {
                 "language": "en",
@@ -45527,7 +42652,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Creepuscule",
+        "name": "creepuscule",
         "localized_names": [
             {
                 "language": "en",
@@ -45669,7 +42794,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Plixie",
+        "name": "plixie",
         "localized_names": [
             {
                 "language": "en",
@@ -45852,7 +42977,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Kazilleon",
+        "name": "rare kazilleon",
         "localized_names": [
             {
                 "language": "en",
@@ -46032,7 +43157,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Blipsqueak",
+        "name": "blipsqueak",
         "localized_names": [
             {
                 "language": "en",
@@ -46142,7 +43267,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tring",
+        "name": "tring",
         "localized_names": [
             {
                 "language": "en",
@@ -46381,7 +43506,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Attmoz",
+        "name": "attmoz",
         "localized_names": [
             {
                 "language": "en",
@@ -46579,7 +43704,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Yool",
+        "name": "rare yool",
         "localized_names": [
             {
                 "language": "en",
@@ -46815,7 +43940,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Boodoo",
+        "name": "rare boodoo",
         "localized_names": [
             {
                 "language": "en",
@@ -46992,7 +44117,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Scargo",
+        "name": "scargo",
         "localized_names": [
             {
                 "language": "en",
@@ -47113,7 +44238,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Hornacle",
+        "name": "hornacle",
         "localized_names": [
             {
                 "language": "en",
@@ -47338,7 +44463,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Arackulele",
+        "name": "rare arackulele",
         "localized_names": [
             {
                 "language": "en",
@@ -47513,7 +44638,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Furnoss",
+        "name": "furnoss",
         "localized_names": [
             {
                 "language": "en",
@@ -47653,7 +44778,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Sneyser",
+        "name": "sneyser",
         "localized_names": [
             {
                 "language": "en",
@@ -47989,524 +45114,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Deedge",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Deedge"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Air",
-            "Water",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Cold Island",
-            "Shugabush Island",
-            "Gold Island",
-            "Composer Island",
-            "Tribal Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 8,
-                        "level": 3,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 12,
-                        "level": 4,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 16,
-                        "level": 5,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 22,
-                        "level": 6,
-                        "maximum": 264
-                    },
-                    {
-                        "amount": 28,
-                        "level": 7,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 34,
-                        "level": 8,
-                        "maximum": 408
-                    },
-                    {
-                        "amount": 40,
-                        "level": 9,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 58,
-                        "level": 11,
-                        "maximum": 696
-                    },
-                    {
-                        "amount": 68,
-                        "level": 12,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 80,
-                        "level": 13,
-                        "maximum": 960
-                    },
-                    {
-                        "amount": 94,
-                        "level": 14,
-                        "maximum": 1128
-                    },
-                    {
-                        "amount": 110,
-                        "level": 15,
-                        "maximum": 1320
-                    },
-                    {
-                        "amount": 114,
-                        "level": 16,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 118,
-                        "level": 17,
-                        "maximum": 5760
-                    },
-                    {
-                        "amount": 120,
-                        "level": 18,
-                        "maximum": 8640
-                    },
-                    {
-                        "amount": 122,
-                        "level": 19,
-                        "maximum": 10080
-                    },
-                    {
-                        "amount": 124,
-                        "level": 20,
-                        "maximum": 11520
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 8,
-                        "level": 3,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 12,
-                        "level": 4,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 16,
-                        "level": 5,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 22,
-                        "level": 6,
-                        "maximum": 264
-                    },
-                    {
-                        "amount": 28,
-                        "level": 7,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 34,
-                        "level": 8,
-                        "maximum": 408
-                    },
-                    {
-                        "amount": 40,
-                        "level": 9,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 48,
-                        "level": 10,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 58,
-                        "level": 11,
-                        "maximum": 696
-                    },
-                    {
-                        "amount": 68,
-                        "level": 12,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 80,
-                        "level": 13,
-                        "maximum": 960
-                    },
-                    {
-                        "amount": 94,
-                        "level": 14,
-                        "maximum": 1128
-                    },
-                    {
-                        "amount": 110,
-                        "level": 15,
-                        "maximum": 1320
-                    },
-                    {
-                        "amount": 114,
-                        "level": 16,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 118,
-                        "level": 17,
-                        "maximum": 5760
-                    },
-                    {
-                        "amount": 120,
-                        "level": 18,
-                        "maximum": 8640
-                    },
-                    {
-                        "amount": 122,
-                        "level": 19,
-                        "maximum": 10080
-                    },
-                    {
-                        "amount": 124,
-                        "level": 20,
-                        "maximum": 11520
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 110,
-                        "level": 15,
-                        "maximum": 1320
-                    },
-                    {
-                        "amount": 114,
-                        "level": 16,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 118,
-                        "level": 17,
-                        "maximum": 5760
-                    },
-                    {
-                        "amount": 120,
-                        "level": 18,
-                        "maximum": 8640
-                    },
-                    {
-                        "amount": 122,
-                        "level": 19,
-                        "maximum": 10080
-                    },
-                    {
-                        "amount": 124,
-                        "level": 20,
-                        "maximum": 11520
-                    }
-                ]
-            },
-            {
-                "island": "Tribal Island",
-                "currency": "Shards",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 1
-                    },
-                    {
-                        "amount": 2,
-                        "level": 2,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 3,
-                        "level": 3,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 4,
-                        "level": 4,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 5,
-                        "level": 5,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 6,
-                        "level": 6,
-                        "maximum": 6
-                    },
-                    {
-                        "amount": 7,
-                        "level": 7,
-                        "maximum": 7
-                    },
-                    {
-                        "amount": 8,
-                        "level": 8,
-                        "maximum": 8
-                    },
-                    {
-                        "amount": 9,
-                        "level": 9,
-                        "maximum": 9
-                    },
-                    {
-                        "amount": 10,
-                        "level": 10,
-                        "maximum": 10
-                    },
-                    {
-                        "amount": 11,
-                        "level": 11,
-                        "maximum": 11
-                    },
-                    {
-                        "amount": 12,
-                        "level": 12,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 13,
-                        "level": 13,
-                        "maximum": 13
-                    },
-                    {
-                        "amount": 14,
-                        "level": 14,
-                        "maximum": 14
-                    },
-                    {
-                        "amount": 15,
-                        "level": 15,
-                        "maximum": 15
-                    },
-                    {
-                        "amount": 16,
-                        "level": 16,
-                        "maximum": 16
-                    },
-                    {
-                        "amount": 17,
-                        "level": 17,
-                        "maximum": 17
-                    },
-                    {
-                        "amount": 18,
-                        "level": 18,
-                        "maximum": 18
-                    },
-                    {
-                        "amount": 19,
-                        "level": 19,
-                        "maximum": 19
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 20
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Cold Island",
-                "cost": 150000,
-                "unit": "Coins"
-            },
-            {
-                "island": "Composer Island",
-                "cost": 5,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "bowgart",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "congle",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "spunge",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "thumpies",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "maw",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "furcorn",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "oaktopus",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 86400,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "quibble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugabass",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugarock",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "quibble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "rare-jellbilly",
         "localized_names": [
             {
@@ -48682,7 +45289,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Schmoochle",
+        "name": "rare schmoochle",
         "localized_names": [
             {
                 "language": "en",
@@ -49025,7 +45632,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Astropod",
+        "name": "astropod",
         "localized_names": [
             {
                 "language": "en",
@@ -49344,7 +45951,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Sox",
+        "name": "rare sox",
         "localized_names": [
             {
                 "language": "en",
@@ -49521,7 +46128,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tawkerr",
+        "name": "tawkerr",
         "localized_names": [
             {
                 "language": "en",
@@ -49736,7 +46343,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Parlsona",
+        "name": "parlsona",
         "localized_names": [
             {
                 "language": "en",
@@ -49951,7 +46558,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Blabbit",
+        "name": "rare blabbit",
         "localized_names": [
             {
                 "language": "en",
@@ -50098,7 +46705,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Blasoom",
+        "name": "blasoom",
         "localized_names": [
             {
                 "language": "en",
@@ -50323,7 +46930,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Nebulob",
+        "name": "rare nebulob",
         "localized_names": [
             {
                 "language": "en",
@@ -50500,7 +47107,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bona-Petite",
+        "name": "bona-petite",
         "localized_names": [
             {
                 "language": "en",
@@ -50654,7 +47261,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Syncopite",
+        "name": "syncopite",
         "localized_names": [
             {
                 "language": "en",
@@ -50813,7 +47420,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Whisp",
+        "name": "rare whisp",
         "localized_names": [
             {
                 "language": "en",
@@ -50973,7 +47580,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Vhamp",
+        "name": "vhamp",
         "localized_names": [
             {
                 "language": "en",
@@ -51193,7 +47800,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Edamimi",
+        "name": "edamimi",
         "localized_names": [
             {
                 "language": "en",
@@ -51386,7 +47993,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Galvana",
+        "name": "galvana",
         "localized_names": [
             {
                 "language": "en",
@@ -51637,7 +48244,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Maulch",
+        "name": "maulch",
         "localized_names": [
             {
                 "language": "en",
@@ -52165,7 +48772,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Fleechwurm",
+        "name": "fleechwurm",
         "localized_names": [
             {
                 "language": "en",
@@ -52287,616 +48894,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Congle",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Congle"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Water",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Cold Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island",
-            "Mirror Cold Island",
-            "Mirror Air Island",
-            "Mirror Water Island",
-            "Mirror Earth Island"
-        ],
-        "earnings": [
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Air Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Water Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Shards",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 40
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 150000,
-                "unit": "Coins"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Mirror Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "maw",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 43200,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "inverdigus-fern",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "inverdigus-fern",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "inverdigus-fern",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "inverdigus-fern",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "attmoz",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Attmoz"
-            }
-        ],
-        "beds_required": 0,
-        "rarity": "common",
-        "elements": [
-            "Celestial"
-        ],
-        "class": "Celestial",
-        "islands": [
-            "Celestial Island"
-        ],
-        "earnings": [
-            {
-                "island": "Celestial Island",
-                "currency": "Coins",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1500,
-                        "level": 1,
-                        "maximum": 150000
-                    }
-                ]
-            },
-            {
-                "island": "Celestial Island",
-                "currency": "Shards",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 15,
-                        "level": 1,
-                        "maximum": 1500
-                    }
-                ]
-            },
-            {
-                "island": "Celestial Island",
-                "currency": "Treats",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 150,
-                        "level": 1,
-                        "maximum": 15000
-                    }
-                ]
-            },
-            {
-                "island": "Celestial Island",
-                "currency": "Diamonds",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 3
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Celestial Island",
-                "cost": 75,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 0,
-        "island_likes": [],
-        "eggs_required": [
-            {
-                "monster_name": "riff",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "pompom",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "congle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "scups",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "spunge",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "thumpies",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "cybop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 8
-            },
-            {
-                "monster_name": "pango",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "quibble",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "dandidoo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 5
-            },
-            {
-                "monster_name": "tweedle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 25
-            }
-        ]
-    },
-    {
-        "name": "Epic Noggin",
+        "name": "epic noggin",
         "localized_names": [
             {
                 "language": "en",
@@ -53287,7 +49285,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Furcorn",
+        "name": "epic furcorn",
         "localized_names": [
             {
                 "language": "en",
@@ -54116,7 +50114,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Thumpies",
+        "name": "epic thumpies",
         "localized_names": [
             {
                 "language": "en",
@@ -54304,7 +50302,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Mimic",
+        "name": "mimic",
         "localized_names": [
             {
                 "language": "en",
@@ -54598,7 +50596,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Stogg",
+        "name": "stogg",
         "localized_names": [
             {
                 "language": "en",
@@ -55281,526 +51279,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Floogull",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Floogull"
-            }
-        ],
-        "beds_required": 3,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Earth",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Fire Haven",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Fire Haven",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 14,
-                        "level": 1,
-                        "maximum": 6235
-                    },
-                    {
-                        "amount": 22,
-                        "level": 2,
-                        "maximum": 9798
-                    },
-                    {
-                        "amount": 34,
-                        "level": 3,
-                        "maximum": 15142
-                    },
-                    {
-                        "amount": 45,
-                        "level": 4,
-                        "maximum": 20041
-                    },
-                    {
-                        "amount": 56,
-                        "level": 5,
-                        "maximum": 24940
-                    },
-                    {
-                        "amount": 67,
-                        "level": 6,
-                        "maximum": 29839
-                    },
-                    {
-                        "amount": 78,
-                        "level": 7,
-                        "maximum": 34738
-                    },
-                    {
-                        "amount": 90,
-                        "level": 8,
-                        "maximum": 40082
-                    },
-                    {
-                        "amount": 101,
-                        "level": 9,
-                        "maximum": 44981
-                    },
-                    {
-                        "amount": 112,
-                        "level": 10,
-                        "maximum": 49880
-                    },
-                    {
-                        "amount": 123,
-                        "level": 11,
-                        "maximum": 54779
-                    },
-                    {
-                        "amount": 134,
-                        "level": 12,
-                        "maximum": 59678
-                    },
-                    {
-                        "amount": 146,
-                        "level": 13,
-                        "maximum": 65022
-                    },
-                    {
-                        "amount": 157,
-                        "level": 14,
-                        "maximum": 69921
-                    },
-                    {
-                        "amount": 168,
-                        "level": 15,
-                        "maximum": 74885
-                    },
-                    {
-                        "amount": 176,
-                        "level": 16,
-                        "maximum": 78629
-                    },
-                    {
-                        "amount": 183,
-                        "level": 17,
-                        "maximum": 81743
-                    },
-                    {
-                        "amount": 188,
-                        "level": 18,
-                        "maximum": 84081
-                    },
-                    {
-                        "amount": 192,
-                        "level": 19,
-                        "maximum": 85796
-                    },
-                    {
-                        "amount": 194,
-                        "level": 20,
-                        "maximum": 86740
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1.64,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.76,
-                        "level": 2,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.82,
-                        "level": 3,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.88,
-                        "level": 4,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.95,
-                        "level": 5,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.02,
-                        "level": 6,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.09,
-                        "level": 7,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.16,
-                        "level": 8,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.24,
-                        "level": 9,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.31,
-                        "level": 10,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.39,
-                        "level": 11,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.48,
-                        "level": 12,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.56,
-                        "level": 13,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.65,
-                        "level": 14,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.75,
-                        "level": 15,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.84,
-                        "level": 16,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.94,
-                        "level": 17,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 3.05,
-                        "level": 18,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.15,
-                        "level": 19,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.26,
-                        "level": 20,
-                        "maximum": 4
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Fire Haven",
-                "cost": 100,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 20,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Fire Haven",
-                "combos": [
-                    {
-                        "parent_1_name": "cybop",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "stogg",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "glowl",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 72000,
-        "island_likes": [
-            {
-                "island": "Fire Haven",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "repatillo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "tree-forte-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "bloofi-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "fossil-osaurus",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "repatillo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "yelmut",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "thrumble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "incisaur",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "entbrat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "uuduk",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "repatillo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "woolabee",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "scups",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "hippityhop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "glowl",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "cybop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 4
-            },
-            {
-                "monster_name": "drumpler",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "furnoss",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Furnoss"
-            }
-        ],
-        "beds_required": 0,
-        "rarity": "common",
-        "elements": [
-            "Celestial"
-        ],
-        "class": "Celestial",
-        "islands": [
-            "Celestial Island"
-        ],
-        "earnings": [],
-        "island_costs": [
-            {
-                "island": "Celestial Island",
-                "cost": 85,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 0,
-        "island_likes": [],
-        "eggs_required": [
-            {
-                "monster_name": "tweedle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 5
-            },
-            {
-                "monster_name": "potbelly",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 10
-            },
-            {
-                "monster_name": "noggin",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 25
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 15
-            },
-            {
-                "monster_name": "dandidoo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "cybop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "shrubb",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "glowl",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 7
-            },
-            {
-                "monster_name": "flowah",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 5
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 5
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "barrb",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "floogull",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 4
-            },
-            {
-                "monster_name": "repatillo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "tring",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Epic Yool",
+        "name": "epic yool",
         "localized_names": [
             {
                 "language": "en",
@@ -56124,7 +51603,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Schmoochle",
+        "name": "epic schmoochle",
         "localized_names": [
             {
                 "language": "en",
@@ -56315,7 +51794,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Stoowarb",
+        "name": "stoowarb",
         "localized_names": [
             {
                 "language": "en",
@@ -56504,7 +51983,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Owlesque",
+        "name": "owlesque",
         "localized_names": [
             {
                 "language": "en",
@@ -56977,7 +52456,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Incisaur",
+        "name": "incisaur",
         "localized_names": [
             {
                 "language": "en",
@@ -57152,7 +52631,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Oaktopus",
+        "name": "epic oaktopus",
         "localized_names": [
             {
                 "language": "en",
@@ -57402,7 +52881,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Quarrister",
+        "name": "epic quarrister",
         "localized_names": [
             {
                 "language": "en",
@@ -57839,7 +53318,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Spunge",
+        "name": "epic spunge",
         "localized_names": [
             {
                 "language": "en",
@@ -58052,7 +53531,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Quibble",
+        "name": "epic quibble",
         "localized_names": [
             {
                 "language": "en",
@@ -58388,329 +53867,6 @@ export const monsters: Monster[] = [
                         "mystery": true
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "phangler",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Phangler"
-            }
-        ],
-        "beds_required": 2,
-        "rarity": "common",
-        "elements": [
-            "Water",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Fire Oasis",
-            "Psychic Island",
-            "Bone Island",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Fire Oasis",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 6,
-                        "level": 1,
-                        "maximum": 500
-                    },
-                    {
-                        "amount": 86,
-                        "level": 20,
-                        "maximum": 6960
-                    }
-                ]
-            },
-            {
-                "island": "Psychic Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 6,
-                        "level": 1,
-                        "maximum": 500
-                    },
-                    {
-                        "amount": 86,
-                        "level": 20,
-                        "maximum": 6960
-                    }
-                ]
-            },
-            {
-                "island": "Bone Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 6,
-                        "level": 1,
-                        "maximum": 500
-                    },
-                    {
-                        "amount": 86,
-                        "level": 20,
-                        "maximum": 6960
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1.32,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.63,
-                        "level": 20,
-                        "maximum": 3
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Fire Oasis",
-                "cost": 50,
-                "unit": "Relics"
-            },
-            {
-                "island": "Psychic Island",
-                "cost": 50,
-                "unit": "Relics"
-            },
-            {
-                "island": "Bone Island",
-                "cost": 50,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 10,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Fire Oasis",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Psychic Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Bone Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 36000,
-        "island_likes": [
-            {
-                "island": "Fire Oasis",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Leafy Sea Dragon",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Squeed Statue",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Bass String Bridge",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Psychic Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Leafy Sea Dragon",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Squeed Statue",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Bass String Bridge",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Bone Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Thrumble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Leafy Sea Dragon",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Squeed Statue",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Bass String Bridge",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Ziggurab",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Sooza",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Krillby",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Candelavra",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "shellbeat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "banjaw",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "whaddle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "rootitoot",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "pummel",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "spunge",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "boskus",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "oaktopus",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "quibble",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "fwog",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
             }
         ]
     },
@@ -59196,246 +54352,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "sneyser",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Sneyser"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Water",
-            "Cold",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Fire Oasis",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Fire Oasis",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 18,
-                        "level": 1,
-                        "maximum": 21578
-                    },
-                    {
-                        "amount": 248,
-                        "level": 20,
-                        "maximum": 300187
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1.96,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 3.9,
-                        "level": 20,
-                        "maximum": 5
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Fire Oasis",
-                "cost": 200,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 30,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Fire Oasis",
-                "combos": [
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "boskus",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "pango",
-                        "parent_2_name": "phangler",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "glowl",
-                        "parent_2_name": "maw",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "congle",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "whaddle",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "woolabee",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "wynq",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 144000,
-        "island_likes": [
-            {
-                "island": "Fire Oasis",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "glowl",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fire Bush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tub Fountain",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Toob",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "glowl",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "sooza",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "barrb",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tuskski",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "gloptic",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "periscorp",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "wynq",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "repatillo",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "pummel",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "congle",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "poppette",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 1
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 3
-            },
-            {
-                "monster_name": "phangler",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 3
-            },
-            {
-                "monster_name": "fwog",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 4
-            },
-            {
-                "monster_name": "pango",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 4
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "none",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Epic Congle",
+        "name": "epic congle",
         "localized_names": [
             {
                 "language": "en",
@@ -60006,7 +54923,7 @@ export const monsters: Monster[] = [
         "island_likes": []
     },
     {
-        "name": "Epic Shellbeat",
+        "name": "epic shellbeat",
         "localized_names": [
             {
                 "language": "en",
@@ -60184,7 +55101,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Hoola",
+        "name": "epic hoola",
         "localized_names": [
             {
                 "language": "en",
@@ -60391,7 +55308,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Pango",
+        "name": "epic pango",
         "localized_names": [
             {
                 "language": "en",
@@ -60675,7 +55592,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Phangler",
+        "name": "rare phangler",
         "localized_names": [
             {
                 "language": "en",
@@ -60914,7 +55831,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Reedling",
+        "name": "epic reedling",
         "localized_names": [
             {
                 "language": "en",
@@ -61113,7 +56030,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Theremind",
+        "name": "theremind",
         "localized_names": [
             {
                 "language": "en",
@@ -61245,7 +56162,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bonkers",
+        "name": "bonkers",
         "localized_names": [
             {
                 "language": "en",
@@ -61361,7 +56278,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Poppette",
+        "name": "poppette",
         "localized_names": [
             {
                 "language": "en",
@@ -61543,7 +56460,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Yuggler",
+        "name": "yuggler",
         "localized_names": [
             {
                 "language": "en",
@@ -61719,7 +56636,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tapricorn",
+        "name": "tapricorn",
         "localized_names": [
             {
                 "language": "en",
@@ -61911,7 +56828,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rooba",
+        "name": "rooba",
         "localized_names": [
             {
                 "language": "en",
@@ -62099,7 +57016,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Periscorp",
+        "name": "periscorp",
         "localized_names": [
             {
                 "language": "en",
@@ -62292,7 +57209,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Gloptic",
+        "name": "gloptic",
         "localized_names": [
             {
                 "language": "en",
@@ -62530,7 +57447,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Pladdie",
+        "name": "pladdie",
         "localized_names": [
             {
                 "language": "en",
@@ -62690,7 +57607,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Flowah",
+        "name": "rare flowah",
         "localized_names": [
             {
                 "language": "en",
@@ -62929,7 +57846,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Shrubb",
+        "name": "epic shrubb",
         "localized_names": [
             {
                 "language": "en",
@@ -63138,7 +58055,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Punkleton",
+        "name": "epic punkleton",
         "localized_names": [
             {
                 "language": "en",
@@ -63329,7 +58246,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Wynq",
+        "name": "rare wynq",
         "localized_names": [
             {
                 "language": "en",
@@ -63468,7 +58385,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Pummel",
+        "name": "epic pummel",
         "localized_names": [
             {
                 "language": "en",
@@ -63656,406 +58573,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "thrumble",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Thrumble"
-            }
-        ],
-        "beds_required": 3,
-        "rarity": "common",
-        "elements": [
-            "Earth",
-            "Water",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Bone Island",
-            "Amber Island",
-            "Mirror Bone Island"
-        ],
-        "earnings": [
-            {
-                "island": "Bone Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 6205
-                    },
-                    {
-                        "amount": 19,
-                        "level": 2,
-                        "maximum": 9751
-                    },
-                    {
-                        "amount": 29,
-                        "level": 3,
-                        "maximum": 15070
-                    },
-                    {
-                        "amount": 38,
-                        "level": 4,
-                        "maximum": 19946
-                    },
-                    {
-                        "amount": 47,
-                        "level": 5,
-                        "maximum": 24822
-                    },
-                    {
-                        "amount": 56,
-                        "level": 6,
-                        "maximum": 29698
-                    },
-                    {
-                        "amount": 65,
-                        "level": 7,
-                        "maximum": 34574
-                    },
-                    {
-                        "amount": 75,
-                        "level": 8,
-                        "maximum": 39893
-                    },
-                    {
-                        "amount": 84,
-                        "level": 9,
-                        "maximum": 44769
-                    },
-                    {
-                        "amount": 93,
-                        "level": 10,
-                        "maximum": 49645
-                    },
-                    {
-                        "amount": 102,
-                        "level": 11,
-                        "maximum": 54521
-                    },
-                    {
-                        "amount": 111,
-                        "level": 12,
-                        "maximum": 59397
-                    },
-                    {
-                        "amount": 121,
-                        "level": 13,
-                        "maximum": 64716
-                    },
-                    {
-                        "amount": 130,
-                        "level": 14,
-                        "maximum": 69592
-                    },
-                    {
-                        "amount": 139,
-                        "level": 15,
-                        "maximum": 74533
-                    },
-                    {
-                        "amount": 146,
-                        "level": 16,
-                        "maximum": 78260
-                    },
-                    {
-                        "amount": 152,
-                        "level": 17,
-                        "maximum": 81359
-                    },
-                    {
-                        "amount": 156,
-                        "level": 18,
-                        "maximum": 83686
-                    },
-                    {
-                        "amount": 159,
-                        "level": 19,
-                        "maximum": 85393
-                    },
-                    {
-                        "amount": 161,
-                        "level": 20,
-                        "maximum": 86332
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1.64,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.76,
-                        "level": 2,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.82,
-                        "level": 3,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.88,
-                        "level": 4,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 1.95,
-                        "level": 5,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.02,
-                        "level": 6,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.09,
-                        "level": 7,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.16,
-                        "level": 8,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.24,
-                        "level": 9,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.31,
-                        "level": 10,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.39,
-                        "level": 11,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.48,
-                        "level": 12,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.56,
-                        "level": 13,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.65,
-                        "level": 14,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.75,
-                        "level": 15,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.84,
-                        "level": 16,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.94,
-                        "level": 17,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 3.05,
-                        "level": 18,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.15,
-                        "level": 19,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.26,
-                        "level": 20,
-                        "maximum": 4
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Bone Island",
-                "cost": 100,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 20,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Bone Island",
-                "combos": [
-                    {
-                        "parent_1_name": "fwog",
-                        "parent_2_name": "kayna",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "stogg",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "phangler",
-                        "parent_2_name": "noggin",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 72000,
-        "island_likes": [
-            {
-                "island": "Bone Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "phangler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "tub-fountain",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "bottomless-pit",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "dragon-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "phangler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "sooza",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "bisonorus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "gnarls",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "shellbeat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "withur",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "repatillo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "whaddle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "scups",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 4
-            },
-            {
-                "monster_name": "t-rox",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 4
-            },
-            {
-                "monster_name": "hippityhop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "phangler",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "fwog",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "drumpler",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Gobbleygourd",
+        "name": "gobbleygourd",
         "localized_names": [
             {
                 "language": "en",
@@ -64311,7 +58829,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Dandidoo",
+        "name": "epic dandidoo",
         "localized_names": [
             {
                 "language": "en",
@@ -64440,7 +58958,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "HippityHop",
+        "name": "hippityhop",
         "localized_names": [
             {
                 "language": "en",
@@ -64803,7 +59321,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Wimmzies",
+        "name": "wimmzies",
         "localized_names": [
             {
                 "language": "en",
@@ -64979,7 +59497,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Cantorell",
+        "name": "cantorell",
         "localized_names": [
             {
                 "language": "en",
@@ -65263,7 +59781,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Clavi Gnat",
+        "name": "clavi gnat",
         "localized_names": [
             {
                 "language": "en",
@@ -65455,7 +59973,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Clamble",
+        "name": "epic clamble",
         "localized_names": [
             {
                 "language": "en",
@@ -65983,7 +60501,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Drumpler",
+        "name": "epic drumpler",
         "localized_names": [
             {
                 "language": "en",
@@ -66192,7 +60710,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Boskus",
+        "name": "rare boskus",
         "localized_names": [
             {
                 "language": "en",
@@ -66745,7 +61263,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Repatillo",
+        "name": "rare repatillo",
         "localized_names": [
             {
                 "language": "en",
@@ -66884,7 +61402,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Clackula",
+        "name": "clackula",
         "localized_names": [
             {
                 "language": "en",
@@ -67028,7 +61546,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Peckidna",
+        "name": "peckidna",
         "localized_names": [
             {
                 "language": "en",
@@ -67210,7 +61728,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Denchuhs",
+        "name": "denchuhs",
         "localized_names": [
             {
                 "language": "en",
@@ -67407,7 +61925,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Withur",
+        "name": "withur",
         "localized_names": [
             {
                 "language": "en",
@@ -67599,7 +62117,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Uuduk",
+        "name": "uuduk",
         "localized_names": [
             {
                 "language": "en",
@@ -67786,7 +62304,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Banjaw",
+        "name": "banjaw",
         "localized_names": [
             {
                 "language": "en",
@@ -67974,7 +62492,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Plinkajou",
+        "name": "plinkajou",
         "localized_names": [
             {
                 "language": "en",
@@ -68187,7 +62705,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Hawlo",
+        "name": "hawlo",
         "localized_names": [
             {
                 "language": "en",
@@ -68368,7 +62886,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Whaddle",
+        "name": "rare whaddle",
         "localized_names": [
             {
                 "language": "en",
@@ -68672,7 +63190,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Rootitoot",
+        "name": "rare rootitoot",
         "localized_names": [
             {
                 "language": "en",
@@ -68991,725 +63509,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bisonorus",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Bisonorus"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Plant",
-            "Water",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Psychic Island",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Psychic Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 17,
-                        "level": 1,
-                        "maximum": 23009
-                    },
-                    {
-                        "amount": 247,
-                        "level": 20,
-                        "maximum": 320092
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1.96,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 3.9,
-                        "level": 20,
-                        "maximum": 5
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Psychic Island",
-                "cost": 300,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 30,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Psychic Island",
-                "combos": []
-            },
-            {
-                "island": "Amber Island",
-                "combos": []
-            }
-        ],
-        "breeding_time": 144000,
-        "island_likes": [
-            {
-                "island": "Psychic Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "tapricorn",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "givutawai-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "star-rocks",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "innertuba",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "sooza",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "thrumble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "krillby",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "gnarls",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "fwog",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 7
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "plinkajou",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            },
-            {
-                "monster_name": "fiddlement",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "spunge",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "thumpies",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "bonkers",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "whaddle",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "oaktopus",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 7
-            },
-            {
-                "monster_name": "glowl",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "furcorn",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 7
-            },
-            {
-                "monster_name": "barrb",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "candelavra",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Candelavra"
-            }
-        ],
-        "beds_required": 5,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Plant",
-            "Earth",
-            "Water",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Fire Haven",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Fire Haven",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 25,
-                        "level": 1,
-                        "maximum": 23123
-                    },
-                    {
-                        "amount": 39,
-                        "level": 2,
-                        "maximum": 36336
-                    },
-                    {
-                        "amount": 60,
-                        "level": 3,
-                        "maximum": 56156
-                    },
-                    {
-                        "amount": 79,
-                        "level": 4,
-                        "maximum": 74324
-                    },
-                    {
-                        "amount": 98,
-                        "level": 5,
-                        "maximum": 92492
-                    },
-                    {
-                        "amount": 117,
-                        "level": 6,
-                        "maximum": 110660
-                    },
-                    {
-                        "amount": 136,
-                        "level": 7,
-                        "maximum": 128828
-                    },
-                    {
-                        "amount": 157,
-                        "level": 8,
-                        "maximum": 148648
-                    },
-                    {
-                        "amount": 176,
-                        "level": 9,
-                        "maximum": 166816
-                    },
-                    {
-                        "amount": 195,
-                        "level": 10,
-                        "maximum": 184984
-                    },
-                    {
-                        "amount": 214,
-                        "level": 11,
-                        "maximum": 203152
-                    },
-                    {
-                        "amount": 233,
-                        "level": 12,
-                        "maximum": 221320
-                    },
-                    {
-                        "amount": 254,
-                        "level": 13,
-                        "maximum": 241140
-                    },
-                    {
-                        "amount": 273,
-                        "level": 14,
-                        "maximum": 259308
-                    },
-                    {
-                        "amount": 292,
-                        "level": 15,
-                        "maximum": 277719
-                    },
-                    {
-                        "amount": 307,
-                        "level": 16,
-                        "maximum": 291605
-                    },
-                    {
-                        "amount": 319,
-                        "level": 17,
-                        "maximum": 303153
-                    },
-                    {
-                        "amount": 328,
-                        "level": 18,
-                        "maximum": 311823
-                    },
-                    {
-                        "amount": 335,
-                        "level": 19,
-                        "maximum": 318184
-                    },
-                    {
-                        "amount": 339,
-                        "level": 20,
-                        "maximum": 321684
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 2.16,
-                        "level": 1,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.31,
-                        "level": 2,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.39,
-                        "level": 3,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.48,
-                        "level": 4,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.56,
-                        "level": 5,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.65,
-                        "level": 6,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.74,
-                        "level": 7,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.84,
-                        "level": 8,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 2.94,
-                        "level": 9,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.04,
-                        "level": 10,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.15,
-                        "level": 11,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.26,
-                        "level": 12,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.38,
-                        "level": 13,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.49,
-                        "level": 14,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.61,
-                        "level": 15,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.74,
-                        "level": 16,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 3.87,
-                        "level": 17,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 4,
-                        "level": 18,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 4.15,
-                        "level": 19,
-                        "maximum": 5
-                    },
-                    {
-                        "amount": 4.29,
-                        "level": 20,
-                        "maximum": 5
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Fire Haven",
-                "cost": 500,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 40,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 288000,
-        "island_likes": [
-            {
-                "island": "Fire Haven",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "repatillo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "smunkit",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "freed-thing",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "the-thunker",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "repatillo",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "boskus",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "wynq",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "bowhead",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "tring",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "sneyser",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "blow_t",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "gloptic",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "pladdie",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "plinkajou",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "barrb",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "floogull",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "whaddle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "woolabee",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "repatillo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "rootitoot",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "sooza",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "thrumble",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "ziggurab",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "wynq",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "tootoo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "fiddlement",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "rooba",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "periscorp",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "bridg-it",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "clavi-gnat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "uuduk",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "banjaw",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "pluckbill",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "yuggler",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "wimmzies",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "hawlo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "glowl",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "flowah",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "phangler",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "boskus",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Rare Barrb",
+        "name": "rare barrb",
         "localized_names": [
             {
                 "language": "en",
@@ -69858,7 +63658,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Glowl",
+        "name": "rare glowl",
         "localized_names": [
             {
                 "language": "en",
@@ -70463,582 +64263,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "edamimi",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Edamimi"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Plant",
-            "Earth",
-            "Water",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Psychic Island",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Psychic Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 18,
-                        "level": 1,
-                        "maximum": 22742
-                    },
-                    {
-                        "amount": 28,
-                        "level": 2,
-                        "maximum": 35737
-                    },
-                    {
-                        "amount": 43,
-                        "level": 3,
-                        "maximum": 55230
-                    },
-                    {
-                        "amount": 57,
-                        "level": 4,
-                        "maximum": 73099
-                    },
-                    {
-                        "amount": 71,
-                        "level": 5,
-                        "maximum": 90968
-                    },
-                    {
-                        "amount": 85,
-                        "level": 6,
-                        "maximum": 108837
-                    },
-                    {
-                        "amount": 99,
-                        "level": 7,
-                        "maximum": 126706
-                    },
-                    {
-                        "amount": 114,
-                        "level": 8,
-                        "maximum": 146199
-                    },
-                    {
-                        "amount": 128,
-                        "level": 9,
-                        "maximum": 164068
-                    },
-                    {
-                        "amount": 142,
-                        "level": 10,
-                        "maximum": 181937
-                    },
-                    {
-                        "amount": 156,
-                        "level": 11,
-                        "maximum": 199806
-                    },
-                    {
-                        "amount": 170,
-                        "level": 12,
-                        "maximum": 217675
-                    },
-                    {
-                        "amount": 185,
-                        "level": 13,
-                        "maximum": 237168
-                    },
-                    {
-                        "amount": 199,
-                        "level": 14,
-                        "maximum": 255037
-                    },
-                    {
-                        "amount": 213,
-                        "level": 15,
-                        "maximum": 273145
-                    },
-                    {
-                        "amount": 224,
-                        "level": 16,
-                        "maximum": 286802
-                    },
-                    {
-                        "amount": 233,
-                        "level": 17,
-                        "maximum": 298159
-                    },
-                    {
-                        "amount": 240,
-                        "level": 18,
-                        "maximum": 306686
-                    },
-                    {
-                        "amount": 245,
-                        "level": 19,
-                        "maximum": 312942
-                    },
-                    {
-                        "amount": 248,
-                        "level": 20,
-                        "maximum": 316384
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1.96,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.1,
-                        "level": 2,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 2.17,
-                        "level": 3,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.25,
-                        "level": 4,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.33,
-                        "level": 5,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.41,
-                        "level": 6,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.49,
-                        "level": 7,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.58,
-                        "level": 8,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.67,
-                        "level": 9,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.76,
-                        "level": 10,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.86,
-                        "level": 11,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 2.96,
-                        "level": 12,
-                        "maximum": 3
-                    },
-                    {
-                        "amount": 3.07,
-                        "level": 13,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.17,
-                        "level": 14,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.28,
-                        "level": 15,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.4,
-                        "level": 16,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.52,
-                        "level": 17,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.64,
-                        "level": 18,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.77,
-                        "level": 19,
-                        "maximum": 4
-                    },
-                    {
-                        "amount": 3.9,
-                        "level": 20,
-                        "maximum": 5
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Psychic Island",
-                "cost": 300,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 30,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 0,
-        "island_likes": [
-            {
-                "island": "Psychic Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "periscorp",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "mount-knottshurr",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "ockulo-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "swurlee-tree",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "glowl",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "whaddle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tiawa",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tuskski",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "blow_t",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            },
-            {
-                "monster_name": "tootoo",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "wynq",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "barrb",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "clamble",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 4
-            },
-            {
-                "monster_name": "pompom",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 5
-            },
-            {
-                "monster_name": "hawlo",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "stogg",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 5
-            },
-            {
-                "monster_name": "flowah",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 5
-            },
-            {
-                "monster_name": "oaktopus",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 7
-            },
-            {
-                "monster_name": "shrubb",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 6
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "krillby",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Krillby"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Earth",
-            "Cold",
-            "Fire"
-        ],
-        "class": "Fire",
-        "islands": [
-            "Faerie Island",
-            "Amber Island"
-        ],
-        "earnings": [
-            {
-                "island": "Faerie Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 16,
-                        "level": 1,
-                        "maximum": 22328
-                    },
-                    {
-                        "amount": 228,
-                        "level": 20,
-                        "maximum": 310618
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "currency": "Relics",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1.96,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 3.9,
-                        "level": 20,
-                        "maximum": 5
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Faerie Island",
-                "cost": 300,
-                "unit": "Relics"
-            },
-            {
-                "island": "Amber Island",
-                "cost": 30,
-                "unit": "Relics"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 144000,
-        "island_likes": [
-            {
-                "island": "Faerie Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Ziggurab",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Striking Bulbs",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hammock",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Boss Monument",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Amber Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Ziggurab",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Phangler",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Thrumble",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "Bisonorus",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "eggs_required": [
-            {
-                "monster_name": "blow_t",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "clavi-gnat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "whaddle",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "floogull",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "t-rox",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 5
-            },
-            {
-                "monster_name": "bonkers",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "flowah",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 6
-            },
-            {
-                "monster_name": "peckidna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "cybop",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 8
-            },
-            {
-                "monster_name": "dandidoo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 8
-            },
-            {
-                "monster_name": "kayna",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            }
-        ]
-    },
-    {
         "name": "rare-sneyser",
         "localized_names": [
             {
@@ -71374,7 +64598,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Ziggurab",
+        "name": "rare ziggurab",
         "localized_names": [
             {
                 "language": "en",
@@ -71506,1733 +64730,6 @@ export const monsters: Monster[] = [
                     {
                         "type": "monster",
                         "name": "barrb",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Mammott",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Mammott"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 432
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 864
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 1008
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 1152
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 1296
-                    },
-                    {
-                        "amount": 20,
-                        "level": 10,
-                        "maximum": 1440
-                    },
-                    {
-                        "amount": 22,
-                        "level": 11,
-                        "maximum": 1584
-                    },
-                    {
-                        "amount": 24,
-                        "level": 12,
-                        "maximum": 1728
-                    },
-                    {
-                        "amount": 26,
-                        "level": 13,
-                        "maximum": 1872
-                    },
-                    {
-                        "amount": 28,
-                        "level": 14,
-                        "maximum": 2016
-                    },
-                    {
-                        "amount": 30,
-                        "level": 15,
-                        "maximum": 2160
-                    },
-                    {
-                        "amount": 32,
-                        "level": 16,
-                        "maximum": 2304
-                    },
-                    {
-                        "amount": 34,
-                        "level": 17,
-                        "maximum": 2448
-                    },
-                    {
-                        "amount": 36,
-                        "level": 18,
-                        "maximum": 2592
-                    },
-                    {
-                        "amount": 38,
-                        "level": 19,
-                        "maximum": 2736
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 2880
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 250,
-                "unit": "Coins"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 120,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "tree-forte-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "dragon-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "eerie-remains",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "wild-bagpipe",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "reflecting-pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "globes-of-sight",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Dandidoo",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Dandidoo"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Plant"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "Composer Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 432
-                    },
-                    {
-                        "amount": 20,
-                        "level": 10,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 22,
-                        "level": 11,
-                        "maximum": 528
-                    },
-                    {
-                        "amount": 24,
-                        "level": 12,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 26,
-                        "level": 13,
-                        "maximum": 624
-                    },
-                    {
-                        "amount": 28,
-                        "level": 14,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 30,
-                        "level": 15,
-                        "maximum": 720
-                    },
-                    {
-                        "amount": 32,
-                        "level": 16,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 34,
-                        "level": 17,
-                        "maximum": 816
-                    },
-                    {
-                        "amount": 36,
-                        "level": 18,
-                        "maximum": 864
-                    },
-                    {
-                        "amount": 38,
-                        "level": 19,
-                        "maximum": 912
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 30,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "potbelly",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 28800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Babayag Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Reflecting Pool",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quibble",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Quibble"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Water"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Cold Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "Composer Island",
-            "The Colossingum",
-            "Mirror Cold Island",
-            "Mirror Air Island",
-            "Mirror Water Island",
-            "Mirror Earth Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 12,
-                        "level": 1,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 168,
-                        "level": 20,
-                        "maximum": 2016
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 30,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "tweedle",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 28800,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shugabush",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "deedge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "bass-string-bridge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Maw",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Maw"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Water",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Shugabush Island",
-            "Tribal Island",
-            "The Colossingum",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "Plant Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 960
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 2880,
-                        "level": 1,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 134400,
-                        "level": 20,
-                        "maximum": 134400
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "currency": "Coins",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 2880,
-                        "level": 1,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 134400,
-                        "level": 20,
-                        "maximum": 134400
-                    }
-                ]
-            },
-            {
-                "island": "Tribal Island",
-                "currency": "Shards",
-                "unit": "Month",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 1
-                    },
-                    {
-                        "amount": 4,
-                        "level": 20,
-                        "maximum": 4
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Plant Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Cold Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Water Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "Earth Island",
-                "cost": 300,
-                "unit": "Coins"
-            },
-            {
-                "island": "The Colossingum",
-                "cost": 35,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "toe-jammer",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 1800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-log",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "fuzzle-tree",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "unity-tree",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Shugabush Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "toe-jammer",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "piney-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "shugarock",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "drumpler",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Drumpler"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Earth",
-            "Cold"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "Composer Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 72
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 120
-                    },
-                    {
-                        "amount": 12,
-                        "level": 6,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 14,
-                        "level": 7,
-                        "maximum": 168
-                    },
-                    {
-                        "amount": 16,
-                        "level": 8,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 18,
-                        "level": 9,
-                        "maximum": 216
-                    },
-                    {
-                        "amount": 22,
-                        "level": 10,
-                        "maximum": 264
-                    },
-                    {
-                        "amount": 26,
-                        "level": 11,
-                        "maximum": 312
-                    },
-                    {
-                        "amount": 30,
-                        "level": 12,
-                        "maximum": 360
-                    },
-                    {
-                        "amount": 34,
-                        "level": 13,
-                        "maximum": 408
-                    },
-                    {
-                        "amount": 38,
-                        "level": 14,
-                        "maximum": 456
-                    },
-                    {
-                        "amount": 42,
-                        "level": 15,
-                        "maximum": 504
-                    },
-                    {
-                        "amount": 46,
-                        "level": 16,
-                        "maximum": 552
-                    },
-                    {
-                        "amount": 50,
-                        "level": 17,
-                        "maximum": 600
-                    },
-                    {
-                        "amount": 54,
-                        "level": 18,
-                        "maximum": 648
-                    },
-                    {
-                        "amount": 58,
-                        "level": 19,
-                        "maximum": 696
-                    },
-                    {
-                        "amount": 62,
-                        "level": 20,
-                        "maximum": 1008
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 300,
-                "unit": "Coins"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "noggin",
-                        "parent_2_name": "mammott",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 1800,
-        "island_likes": [
-            {
-                "island": "Plant Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "noggin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "reflecting-pool",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "noggin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "reflecting-pool",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "noggin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "reflecting-pool",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "mammott",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "noggin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "reflecting-pool",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "spunge",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Spunge"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Air",
-            "Plant",
-            "Water"
-        ],
-        "class": "Natural",
-        "islands": [
-            "Plant Island",
-            "Cold Island",
-            "Air Island",
-            "Water Island",
-            "Earth Island",
-            "Gold Island",
-            "Tribal Island",
-            "The Colossingum",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 14400
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 150,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Plant Island",
-                "combos": [
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "dandidoo",
-                        "parent_2_name": "toe-jammer",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "oaktopus",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quibble",
-                        "parent_2_name": "potbelly",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 43200,
-        "island_likes": [
-            {
-                "island": "All Islands",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "potbelly",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "toob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
                         "mystery": true
                     }
                 ]
@@ -73383,7 +64880,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Gob",
+        "name": "gob",
         "localized_names": [
             {
                 "language": "en",
@@ -73559,7 +65056,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Tiawa",
+        "name": "tiawa",
         "localized_names": [
             {
                 "language": "en",
@@ -73766,7 +65263,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Spytrap",
+        "name": "spytrap",
         "localized_names": [
             {
                 "language": "en",
@@ -73959,7 +65456,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Pluckbill",
+        "name": "pluckbill",
         "localized_names": [
             {
                 "language": "en",
@@ -74541,7 +66038,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bulbo",
+        "name": "bulbo",
         "localized_names": [
             {
                 "language": "en",
@@ -74722,7 +66219,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Fiddlement",
+        "name": "fiddlement",
         "localized_names": [
             {
                 "language": "en",
@@ -74914,7 +66411,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Blow't",
+        "name": "blow't",
         "localized_names": [
             {
                 "language": "en",
@@ -75658,442 +67155,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Yool",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Yool"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Festival of Yay"
-        ],
-        "class": "Seasonal",
-        "islands": [
-            "Cold Island",
-            "Seasonal Shanty",
-            "Gold Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "Cold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 12,
-                        "level": 5,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 16,
-                        "level": 6,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 20,
-                        "level": 7,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 24,
-                        "level": 8,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 28,
-                        "level": 9,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 32,
-                        "level": 10,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 38,
-                        "level": 11,
-                        "maximum": 912
-                    },
-                    {
-                        "amount": 44,
-                        "level": 12,
-                        "maximum": 1056
-                    },
-                    {
-                        "amount": 50,
-                        "level": 13,
-                        "maximum": 1200
-                    },
-                    {
-                        "amount": 56,
-                        "level": 14,
-                        "maximum": 1344
-                    },
-                    {
-                        "amount": 60,
-                        "level": 15,
-                        "maximum": 1440
-                    },
-                    {
-                        "amount": 64,
-                        "level": 16,
-                        "maximum": 1536
-                    },
-                    {
-                        "amount": 68,
-                        "level": 17,
-                        "maximum": 1632
-                    },
-                    {
-                        "amount": 72,
-                        "level": 18,
-                        "maximum": 1728
-                    },
-                    {
-                        "amount": 76,
-                        "level": 19,
-                        "maximum": 1824
-                    },
-                    {
-                        "amount": 80,
-                        "level": 20,
-                        "maximum": 1920
-                    }
-                ]
-            },
-            {
-                "island": "Seasonal Shanty",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 12,
-                        "level": 5,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 16,
-                        "level": 6,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 20,
-                        "level": 7,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 24,
-                        "level": 8,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 28,
-                        "level": 9,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 32,
-                        "level": 10,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 38,
-                        "level": 11,
-                        "maximum": 912
-                    },
-                    {
-                        "amount": 44,
-                        "level": 12,
-                        "maximum": 1056
-                    },
-                    {
-                        "amount": 50,
-                        "level": 13,
-                        "maximum": 1200
-                    },
-                    {
-                        "amount": 56,
-                        "level": 14,
-                        "maximum": 1344
-                    },
-                    {
-                        "amount": 60,
-                        "level": 15,
-                        "maximum": 1440
-                    },
-                    {
-                        "amount": 64,
-                        "level": 16,
-                        "maximum": 1536
-                    },
-                    {
-                        "amount": 68,
-                        "level": 17,
-                        "maximum": 1632
-                    },
-                    {
-                        "amount": 72,
-                        "level": 18,
-                        "maximum": 1728
-                    },
-                    {
-                        "amount": 76,
-                        "level": 19,
-                        "maximum": 1824
-                    },
-                    {
-                        "amount": 80,
-                        "level": 20,
-                        "maximum": 1920
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 4,
-                        "level": 1,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 8,
-                        "level": 2,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 12,
-                        "level": 3,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 16,
-                        "level": 4,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 24,
-                        "level": 5,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 32,
-                        "level": 6,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 40,
-                        "level": 7,
-                        "maximum": 960
-                    },
-                    {
-                        "amount": 48,
-                        "level": 8,
-                        "maximum": 1152
-                    },
-                    {
-                        "amount": 56,
-                        "level": 9,
-                        "maximum": 1344
-                    },
-                    {
-                        "amount": 64,
-                        "level": 10,
-                        "maximum": 1536
-                    },
-                    {
-                        "amount": 76,
-                        "level": 11,
-                        "maximum": 1824
-                    },
-                    {
-                        "amount": 88,
-                        "level": 12,
-                        "maximum": 2112
-                    },
-                    {
-                        "amount": 100,
-                        "level": 13,
-                        "maximum": 2400
-                    },
-                    {
-                        "amount": 112,
-                        "level": 14,
-                        "maximum": 2688
-                    },
-                    {
-                        "amount": 120,
-                        "level": 15,
-                        "maximum": 2880
-                    },
-                    {
-                        "amount": 128,
-                        "level": 16,
-                        "maximum": 3072
-                    },
-                    {
-                        "amount": 136,
-                        "level": 17,
-                        "maximum": 3264
-                    },
-                    {
-                        "amount": 144,
-                        "level": 18,
-                        "maximum": 3456
-                    },
-                    {
-                        "amount": 152,
-                        "level": 19,
-                        "maximum": 3648
-                    },
-                    {
-                        "amount": 160,
-                        "level": 20,
-                        "maximum": 3840
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 225,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "thumpies",
-                        "parent_2_name": "congle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Seasonal Shanty",
-                "combos": [
-                    {
-                        "parent_1_name": "gobbleygourd",
-                        "parent_2_name": "hoola",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "punkleton",
-                        "parent_2_name": "schmoochle",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "blabbit",
-                        "parent_2_name": "jam-boree",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 129600,
-        "island_likes": [
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "deedge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Seasonal Shanty",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "gobbleygourd",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "jam-boree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "ffidyll",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "path-of-joy",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "rare-theremind",
         "localized_names": [
             {
@@ -76257,7 +67318,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Kayna",
+        "name": "epic kayna",
         "localized_names": [
             {
                 "language": "en",
@@ -76642,7 +67703,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Xyster",
+        "name": "xyster",
         "localized_names": [
             {
                 "language": "en",
@@ -76817,7 +67878,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Knucklehead",
+        "name": "knucklehead",
         "localized_names": [
             {
                 "language": "en",
@@ -76992,7 +68053,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Wimmzies",
+        "name": "rare wimmzies",
         "localized_names": [
             {
                 "language": "en",
@@ -77343,7 +68404,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Enchantling",
+        "name": "enchantling",
         "localized_names": [
             {
                 "language": "en",
@@ -77550,7 +68611,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Gobbleygourd",
+        "name": "rare gobbleygourd",
         "localized_names": [
             {
                 "language": "en",
@@ -77666,7 +68727,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Banjaw",
+        "name": "rare banjaw",
         "localized_names": [
             {
                 "language": "en",
@@ -77853,7 +68914,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Ziggurab",
+        "name": "epic ziggurab",
         "localized_names": [
             {
                 "language": "en",
@@ -78147,7 +69208,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Wubbox",
+        "name": "epic wubbox",
         "localized_names": [
             {
                 "language": "en",
@@ -78913,7 +69974,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Reebro",
+        "name": "epic reebro",
         "localized_names": [
             {
                 "language": "en",
@@ -79057,7 +70118,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Yuggler",
+        "name": "rare yuggler",
         "localized_names": [
             {
                 "language": "en",
@@ -79233,7 +70294,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Clavavera",
+        "name": "clavavera",
         "localized_names": [
             {
                 "language": "en",
@@ -79459,7 +70520,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Gobbleygourd",
+        "name": "epic gobbleygourd",
         "localized_names": [
             {
                 "language": "en",
@@ -79665,7 +70726,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Tring",
+        "name": "epic tring",
         "localized_names": [
             {
                 "language": "en",
@@ -79795,7 +70856,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bridg-it",
+        "name": "rare bridg-it",
         "localized_names": [
             {
                 "language": "en",
@@ -79892,7 +70953,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Ffidyll",
+        "name": "ffidyll",
         "localized_names": [
             {
                 "language": "en",
@@ -80107,7 +71168,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Hawlo",
+        "name": "rare hawlo",
         "localized_names": [
             {
                 "language": "en",
@@ -80194,7 +71255,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Jeeode",
+        "name": "epic jeeode",
         "localized_names": [
             {
                 "language": "en",
@@ -80708,7 +71769,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Spurrit",
+        "name": "spurrit",
         "localized_names": [
             {
                 "language": "en",
@@ -80923,7 +71984,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Rootitoot",
+        "name": "epic rootitoot",
         "localized_names": [
             {
                 "language": "en",
@@ -81057,7 +72118,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Monculus",
+        "name": "monculus",
         "localized_names": [
             {
                 "language": "en",
@@ -81267,7 +72328,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "PongPing",
+        "name": "pongping",
         "localized_names": [
             {
                 "language": "en",
@@ -81660,7 +72721,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Floot Fly",
+        "name": "rare floot fly",
         "localized_names": [
             {
                 "language": "en",
@@ -81798,7 +72859,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Whiz-bang",
+        "name": "whiz-bang",
         "localized_names": [
             {
                 "language": "en",
@@ -81923,7 +72984,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Grumpyre",
+        "name": "epic grumpyre",
         "localized_names": [
             {
                 "language": "en",
@@ -82040,7 +73101,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Strombonin",
+        "name": "strombonin",
         "localized_names": [
             {
                 "language": "en",
@@ -82340,7 +73401,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Cataliszt",
+        "name": "cataliszt",
         "localized_names": [
             {
                 "language": "en",
@@ -82544,7 +73605,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Sporerow",
+        "name": "sporerow",
         "localized_names": [
             {
                 "language": "en",
@@ -82719,7 +73780,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bleatnik",
+        "name": "bleatnik",
         "localized_names": [
             {
                 "language": "en",
@@ -82894,7 +73955,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Cranchee",
+        "name": "cranchee",
         "localized_names": [
             {
                 "language": "en",
@@ -83169,7 +74230,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Withur",
+        "name": "rare withur",
         "localized_names": [
             {
                 "language": "en",
@@ -83662,7 +74723,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "shLep",
+        "name": "shlep",
         "localized_names": [
             {
                 "language": "en",
@@ -84121,7 +75182,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Strombonin",
+        "name": "rare strombonin",
         "localized_names": [
             {
                 "language": "en",
@@ -84312,7 +75373,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Bowhead",
+        "name": "bowhead",
         "localized_names": [
             {
                 "language": "en",
@@ -84613,7 +75674,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Flum Ox",
+        "name": "rare flum ox",
         "localized_names": [
             {
                 "language": "en",
@@ -85134,7 +76195,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Hyehehe",
+        "name": "hyehehe",
         "localized_names": [
             {
                 "language": "en",
@@ -85260,7 +76321,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Humbug",
+        "name": "epic humbug",
         "localized_names": [
             {
                 "language": "en",
@@ -85377,7 +76438,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Wheezel",
+        "name": "wheezel",
         "localized_names": [
             {
                 "language": "en",
@@ -86033,7 +77094,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Edamimi",
+        "name": "rare edamimi",
         "localized_names": [
             {
                 "language": "en",
@@ -86328,7 +77389,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Anglow",
+        "name": "anglow",
         "localized_names": [
             {
                 "language": "en",
@@ -86533,7 +77594,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Pinghound",
+        "name": "pinghound",
         "localized_names": [
             {
                 "language": "en",
@@ -86708,7 +77769,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Thwok",
+        "name": "rare thwok",
         "localized_names": [
             {
                 "language": "en",
@@ -86982,7 +78043,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Brump",
+        "name": "rare brump",
         "localized_names": [
             {
                 "language": "en",
@@ -87074,7 +78135,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Zynth",
+        "name": "rare zynth",
         "localized_names": [
             {
                 "language": "en",
@@ -87190,7 +78251,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Dwumrohl",
+        "name": "rare dwumrohl",
         "localized_names": [
             {
                 "language": "en",
@@ -87372,7 +78433,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Gnarls",
+        "name": "gnarls",
         "localized_names": [
             {
                 "language": "en",
@@ -88209,7 +79270,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Sneyser",
+        "name": "epic sneyser",
         "localized_names": [
             {
                 "language": "en",
@@ -88519,7 +79580,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Whisp",
+        "name": "epic whisp",
         "localized_names": [
             {
                 "language": "en",
@@ -88694,7 +79755,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Blipsqueak",
+        "name": "rare blipsqueak",
         "localized_names": [
             {
                 "language": "en",
@@ -88804,7 +79865,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Tiawa",
+        "name": "rare tiawa",
         "localized_names": [
             {
                 "language": "en",
@@ -89088,498 +80149,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Jeeode",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Jeeode"
-            }
-        ],
-        "beds_required": 5,
-        "rarity": "common",
-        "elements": [
-            "Water",
-            "Crystal"
-        ],
-        "class": "Ethereal",
-        "islands": [
-            "Water Island",
-            "Ethereal Island",
-            "Gold Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "Water Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 40,
-                        "level": 20,
-                        "maximum": 480
-                    }
-                ]
-            },
-            {
-                "island": "Ethereal Island",
-                "currency": "Shards",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 2
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 40
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 1000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Water Island",
-                "combos": [
-                    {
-                        "parent_1_name": "shellbeat",
-                        "parent_2_name": "reedling",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "shellbeat",
-                        "parent_2_name": "spunge",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "shellbeat",
-                        "parent_2_name": "thumpies",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "shellbeat",
-                        "parent_2_name": "scups",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 129600,
-        "island_likes": [
-            {
-                "island": "Water Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shellbeat",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "humbug",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Ethereal Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "shellbeat",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "humbug",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "synthesize_meebs": [
-            "Crystal"
-        ]
-    },
-    {
-        "name": "Humbug",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Humbug"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Poison"
-        ],
-        "class": "Ethereal",
-        "islands": [
-            "Earth Island",
-            "Ethereal Island",
-            "Gold Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "Earth Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 10,
-                        "level": 5,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 14,
-                        "level": 6,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 18,
-                        "level": 7,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 22,
-                        "level": 8,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 26,
-                        "level": 9,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 30,
-                        "level": 10,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 40,
-                        "level": 11,
-                        "maximum": 2640
-                    },
-                    {
-                        "amount": 52,
-                        "level": 12,
-                        "maximum": 2640
-                    },
-                    {
-                        "amount": 66,
-                        "level": 13,
-                        "maximum": 2640
-                    },
-                    {
-                        "amount": 84,
-                        "level": 14,
-                        "maximum": 2640
-                    },
-                    {
-                        "amount": 104,
-                        "level": 15,
-                        "maximum": 2640
-                    },
-                    {
-                        "amount": 110,
-                        "level": 16,
-                        "maximum": 17760
-                    },
-                    {
-                        "amount": 118,
-                        "level": 17,
-                        "maximum": 17760
-                    },
-                    {
-                        "amount": 128,
-                        "level": 18,
-                        "maximum": 17760
-                    },
-                    {
-                        "amount": 138,
-                        "level": 19,
-                        "maximum": 17760
-                    },
-                    {
-                        "amount": 148,
-                        "level": 20,
-                        "maximum": 17760
-                    }
-                ]
-            },
-            {
-                "island": "Ethereal Island",
-                "currency": "Shards",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 2,
-                        "level": 2,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 3,
-                        "level": 3,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 4,
-                        "level": 4,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 5,
-                        "level": 5,
-                        "maximum": 12
-                    },
-                    {
-                        "amount": 6,
-                        "level": 6,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 7,
-                        "level": 7,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 8,
-                        "level": 8,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 9,
-                        "level": 9,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 10,
-                        "level": 10,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 11,
-                        "level": 11,
-                        "maximum": 132
-                    },
-                    {
-                        "amount": 12,
-                        "level": 12,
-                        "maximum": 132
-                    },
-                    {
-                        "amount": 13,
-                        "level": 13,
-                        "maximum": 132
-                    },
-                    {
-                        "amount": 14,
-                        "level": 14,
-                        "maximum": 132
-                    },
-                    {
-                        "amount": 15,
-                        "level": 15,
-                        "maximum": 132
-                    },
-                    {
-                        "amount": 16,
-                        "level": 16,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 17,
-                        "level": 17,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 18,
-                        "level": 18,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 19,
-                        "level": 19,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 240
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Earth Island",
-                "cost": 1000,
-                "unit": "Diamonds"
-            },
-            {
-                "island": "Ethereal Island",
-                "cost": 10000,
-                "unit": "Shards"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "quarrister",
-                        "parent_2_name": "clamble",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quarrister",
-                        "parent_2_name": "pummel",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quarrister",
-                        "parent_2_name": "t-rox",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "quarrister",
-                        "parent_2_name": "bowgart",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Ethereal Island",
-                "combos": [
-                    {
-                        "parent_1_name": "ghazt",
-                        "parent_2_name": "jeeode",
-                        "hide_parent_1_link": false
-                    },
-                    {
-                        "parent_1_name": "grumpyre",
-                        "parent_2_name": "reebro",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 129600,
-        "island_likes": [
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "quarrister",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "dragon-juice-stand",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Ethereal Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "jeeode",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "dragon-juice-stand",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "rare-incisaur",
         "localized_names": [
             {
@@ -89699,7 +80268,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Carillong",
+        "name": "rare carillong",
         "localized_names": [
             {
                 "language": "en",
@@ -89996,7 +80565,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Scaratar",
+        "name": "adult scaratar",
         "localized_names": [
             {
                 "language": "en",
@@ -90458,7 +81027,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Creepuscule",
+        "name": "rare creepuscule",
         "localized_names": [
             {
                 "language": "en",
@@ -90780,7 +81349,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Buzzinga",
+        "name": "buzzinga",
         "localized_names": [
             {
                 "language": "en",
@@ -90995,7 +81564,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Knurv",
+        "name": "knurv",
         "localized_names": [
             {
                 "language": "en",
@@ -91476,7 +82045,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Torrt",
+        "name": "adult torrt",
         "localized_names": [
             {
                 "language": "en",
@@ -92018,183 +82587,6 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Jellbilly",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Jellbilly"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Plasma",
-            "Poison"
-        ],
-        "class": "Ethereal",
-        "islands": [
-            "Ethereal Island",
-            "Plasma Islet",
-            "Gold Island",
-            "The Colossingum"
-        ],
-        "earnings": [
-            {
-                "island": "Ethereal Island",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 5,
-                        "level": 20,
-                        "maximum": 1080
-                    }
-                ]
-            },
-            {
-                "island": "Plasma Islet",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 5,
-                        "level": 20,
-                        "maximum": 1080
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 11,
-                        "level": 1,
-                        "maximum": 2592
-                    },
-                    {
-                        "amount": 54,
-                        "level": 20,
-                        "maximum": 116640
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Ethereal Island",
-                "cost": 1350,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Ethereal Island",
-                "combos": [
-                    {
-                        "parent_1_name": "ghazt",
-                        "parent_2_name": "humbug",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 129600,
-        "island_likes": [
-            {
-                "island": "Ethereal Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "ghazt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "humbug",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "crumpler-tree",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Plasma Islet",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "meebkin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "crumpler-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "eerie-remains",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "ghazt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "humbug",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "crumpler-tree",
-                        "mystery": true
-                    }
-                ]
-            }
-        ],
-        "monster_for_synthesization": "meebkin",
-        "synthesize_meebs": [
-            "Plasma",
-            "Poison"
-        ]
-    },
-    {
         "name": "fung-pray",
         "localized_names": [
             {
@@ -92345,7 +82737,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Gaddzooks",
+        "name": "gaddzooks",
         "localized_names": [
             {
                 "language": "en",
@@ -92482,7 +82874,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Yooreek",
+        "name": "yooreek",
         "localized_names": [
             {
                 "language": "en",
@@ -92709,7 +83101,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Meebkin",
+        "name": "meebkin",
         "localized_names": [
             {
                 "language": "en",
@@ -92910,7 +83302,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Gheegur",
+        "name": "rare gheegur",
         "localized_names": [
             {
                 "language": "en",
@@ -93020,7 +83412,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Thrumble",
+        "name": "epic thrumble",
         "localized_names": [
             {
                 "language": "en",
@@ -93234,7 +83626,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Boodoo",
+        "name": "epic boodoo",
         "localized_names": [
             {
                 "language": "en",
@@ -93409,7 +83801,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Viveine",
+        "name": "rare viveine",
         "localized_names": [
             {
                 "language": "en",
@@ -93704,7 +84096,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Rooba",
+        "name": "rare rooba",
         "localized_names": [
             {
                 "language": "en",
@@ -93891,7 +84283,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bona-Petite",
+        "name": "rare bona-petite",
         "localized_names": [
             {
                 "language": "en",
@@ -94025,7 +84417,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Spurrit",
+        "name": "rare spurrit",
         "localized_names": [
             {
                 "language": "en",
@@ -94215,7 +84607,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Candelavra",
+        "name": "rare candelavra",
         "localized_names": [
             {
                 "language": "en",
@@ -94500,7 +84892,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Attmoz",
+        "name": "adult attmoz",
         "localized_names": [
             {
                 "language": "en",
@@ -94639,7 +85031,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Scargo",
+        "name": "rare scargo",
         "localized_names": [
             {
                 "language": "en",
@@ -94755,7 +85147,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Monculus",
+        "name": "rare monculus",
         "localized_names": [
             {
                 "language": "en",
@@ -94975,7 +85367,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Bellowfish",
+        "name": "epic bellowfish",
         "localized_names": [
             {
                 "language": "en",
@@ -95150,7 +85542,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Whaill",
+        "name": "whaill",
         "localized_names": [
             {
                 "language": "en",
@@ -95350,7 +85742,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Flasque",
+        "name": "flasque",
         "localized_names": [
             {
                 "language": "en",
@@ -95546,7 +85938,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Nitebear",
+        "name": "nitebear",
         "localized_names": [
             {
                 "language": "en",
@@ -95858,7 +86250,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Wynq",
+        "name": "epic wynq",
         "localized_names": [
             {
                 "language": "en",
@@ -96077,7 +86469,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Knucklehead",
+        "name": "rare knucklehead",
         "localized_names": [
             {
                 "language": "en",
@@ -96252,7 +86644,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Fleechwurm",
+        "name": "rare fleechwurm",
         "localized_names": [
             {
                 "language": "en",
@@ -96374,7 +86766,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Furnoss",
+        "name": "adult furnoss",
         "localized_names": [
             {
                 "language": "en",
@@ -96655,7 +87047,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Carillong",
+        "name": "epic carillong",
         "localized_names": [
             {
                 "language": "en",
@@ -96772,135 +87164,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "schmoochle",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Schmoochle"
-            }
-        ],
-        "beds_required": 2,
-        "rarity": "common",
-        "elements": [
-            "Season of Love"
-        ],
-        "class": "Seasonal",
-        "islands": [
-            "Air Island",
-            "Seasonal Shanty",
-            "Gold Island"
-        ],
-        "earnings": [
-            {
-                "island": "Air Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 78,
-                        "level": 20,
-                        "maximum": 1152
-                    }
-                ]
-            },
-            {
-                "island": "Seasonal Shanty",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 39,
-                        "level": 20,
-                        "maximum": 576
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 225,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "riff",
-                        "parent_2_name": "tweedle",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 122400,
-        "island_likes": [
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "riff",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "tweedle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Tree Forte Tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Seasonal Shanty",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "gobbleygourd",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "jam-boree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Fandemonium",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Epic Woolabee",
+        "name": "epic woolabee",
         "localized_names": [
             {
                 "language": "en",
@@ -97034,7 +87298,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Sox",
+        "name": "epic sox",
         "localized_names": [
             {
                 "language": "en",
@@ -97412,7 +87676,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Vhenshun",
+        "name": "vhenshun",
         "localized_names": [
             {
                 "language": "en",
@@ -97639,7 +87903,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Boo'qwurm",
+        "name": "rare boo'qwurm",
         "localized_names": [
             {
                 "language": "en",
@@ -97829,7 +88093,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Glaishur (Adult)",
+        "name": "glaishur (adult)",
         "localized_names": [
             {
                 "language": "en",
@@ -97956,7 +88220,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Screemu",
+        "name": "rare screemu",
         "localized_names": [
             {
                 "language": "en",
@@ -98070,7 +88334,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Ffidyll",
+        "name": "epic ffidyll",
         "localized_names": [
             {
                 "language": "en",
@@ -98260,7 +88524,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bonkers",
+        "name": "rare bonkers",
         "localized_names": [
             {
                 "language": "en",
@@ -98441,7 +88705,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Tuskski",
+        "name": "rare tuskski",
         "localized_names": [
             {
                 "language": "en",
@@ -98561,7 +88825,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Dermit",
+        "name": "rare dermit",
         "localized_names": [
             {
                 "language": "en",
@@ -98681,140 +88945,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "blasoom",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Blasoom"
-            }
-        ],
-        "beds_required": 0,
-        "rarity": "common",
-        "elements": [
-            "Celestial"
-        ],
-        "class": "Celestial",
-        "islands": [
-            "Celestial Island"
-        ],
-        "earnings": [],
-        "island_costs": [],
-        "breeding": [],
-        "breeding_time": 0,
-        "island_likes": [],
-        "eggs_required": [
-            {
-                "monster_name": "furcorn",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "shrubb",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "oaktopus",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "dandidoo",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 3
-            },
-            {
-                "monster_name": "thumpies",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "spunge",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "clamble",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "bowgart",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "pummel",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "deedge",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "entbrat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "shellbeat",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "quarrister",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "blabbit",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "flex",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 2
-            },
-            {
-                "monster_name": "flex",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            },
-            {
-                "monster_name": "flex",
-                "is_rare": false,
-                "rare_type": "common",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Epic Flowah",
+        "name": "epic flowah",
         "localized_names": [
             {
                 "language": "en",
@@ -99058,7 +89189,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Barrb",
+        "name": "epic barrb",
         "localized_names": [
             {
                 "language": "en",
@@ -99182,7 +89313,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Jellbilly",
+        "name": "epic jellbilly",
         "localized_names": [
             {
                 "language": "en",
@@ -99357,7 +89488,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Pluckbill",
+        "name": "rare pluckbill",
         "localized_names": [
             {
                 "language": "en",
@@ -99538,7 +89669,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Viveine",
+        "name": "epic viveine",
         "localized_names": [
             {
                 "language": "en",
@@ -99668,7 +89799,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "X'rt",
+        "name": "x'rt",
         "localized_names": [
             {
                 "language": "en",
@@ -99838,7 +89969,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Pentumbra",
+        "name": "pentumbra",
         "localized_names": [
             {
                 "language": "en",
@@ -100007,7 +90138,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Maulch",
+        "name": "rare maulch",
         "localized_names": [
             {
                 "language": "en",
@@ -100129,170 +90260,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "syncopite",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Syncopite"
-            }
-        ],
-        "beds_required": 0,
-        "rarity": "common",
-        "elements": [
-            "Celestial"
-        ],
-        "class": "Celestial",
-        "islands": [
-            "Celestial Island"
-        ],
-        "earnings": [],
-        "island_costs": [
-            {
-                "island": "Celestial Island",
-                "cost": 10,
-                "unit": "Keys"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 0,
-        "island_likes": [],
-        "eggs_required": [
-            {
-                "monster_name": "fwog",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "shrubb",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "oaktopus",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "dandidoo",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "quibble",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "cybop",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "pummel",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "spunge",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "scups",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "reedling",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "shellbeat",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            },
-            {
-                "monster_name": "clackula",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 5
-            },
-            {
-                "monster_name": "peckidna",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "denchuhs",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "hawlo",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 3
-            },
-            {
-                "monster_name": "withur",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "uuduk",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "banjaw",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "plinkajou",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            },
-            {
-                "monster_name": "spurrit",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            },
-            {
-                "monster_name": "flex",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 2
-            },
-            {
-                "monster_name": "flex",
-                "is_rare": false,
-                "rare_type": "",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Epic Phangler",
+        "name": "epic phangler",
         "localized_names": [
             {
                 "language": "en",
@@ -100541,7 +90509,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Spurrit",
+        "name": "epic spurrit",
         "localized_names": [
             {
                 "language": "en",
@@ -100666,7 +90634,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Vhamp",
+        "name": "adult vhamp",
         "localized_names": [
             {
                 "language": "en",
@@ -100854,7 +90822,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Zuuker",
+        "name": "rare zuuker",
         "localized_names": [
             {
                 "language": "en",
@@ -100976,7 +90944,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Nebulob",
+        "name": "epic nebulob",
         "localized_names": [
             {
                 "language": "en",
@@ -101153,7 +91121,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Sooza",
+        "name": "epic sooza",
         "localized_names": [
             {
                 "language": "en",
@@ -101578,7 +91546,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Clackula",
+        "name": "rare clackula",
         "localized_names": [
             {
                 "language": "en",
@@ -101716,7 +91684,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Anglow",
+        "name": "rare anglow",
         "localized_names": [
             {
                 "language": "en",
@@ -101817,7 +91785,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Cherubble",
+        "name": "rare cherubble",
         "localized_names": [
             {
                 "language": "en",
@@ -102032,7 +92000,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Pixolotl",
+        "name": "rare pixolotl",
         "localized_names": [
             {
                 "language": "en",
@@ -102174,7 +92142,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Monculus",
+        "name": "epic monculus",
         "localized_names": [
             {
                 "language": "en",
@@ -103038,7 +93006,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Buzzinga",
+        "name": "rare buzzinga",
         "localized_names": [
             {
                 "language": "en",
@@ -103228,7 +93196,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Repatillo",
+        "name": "epic repatillo",
         "localized_names": [
             {
                 "language": "en",
@@ -103352,7 +93320,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Adult Galvana",
+        "name": "adult galvana",
         "localized_names": [
             {
                 "language": "en",
@@ -104067,7 +94035,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bowhead",
+        "name": "rare bowhead",
         "localized_names": [
             {
                 "language": "en",
@@ -104187,7 +94155,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Gloptic",
+        "name": "rare gloptic",
         "localized_names": [
             {
                 "language": "en",
@@ -104466,7 +94434,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Cataliszt",
+        "name": "rare cataliszt",
         "localized_names": [
             {
                 "language": "en",
@@ -104868,7 +94836,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic G'joob",
+        "name": "epic g'joob",
         "localized_names": [
             {
                 "language": "en",
@@ -105083,7 +95051,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Yawstrich",
+        "name": "epic yawstrich",
         "localized_names": [
             {
                 "language": "en",
@@ -105425,171 +95393,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "yawstrich",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Yawstrich"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Mythical",
-            "Air"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Air Island",
-            "Mythical Island",
-            "Gold Island"
-        ],
-        "earnings": [
-            {
-                "island": "Air Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 80,
-                        "level": 20,
-                        "maximum": 1536
-                    }
-                ]
-            },
-            {
-                "island": "Mythical Island",
-                "currency": "Shards",
-                "unit": "Hour",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 6
-                    },
-                    {
-                        "amount": 20,
-                        "level": 20,
-                        "maximum": 120
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 1000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Air Island",
-                "combos": [
-                    {
-                        "parent_1_name": "t-rox",
-                        "parent_2_name": "scups",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Mythical Island",
-                "combos": [
-                    {
-                        "parent_1_name": "cataliszt",
-                        "parent_2_name": "scups",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 129600,
-        "island_likes": [
-            {
-                "island": "Air Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "scups",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "t-rox",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "cataliszt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "g_joob",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Gold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "scups",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "t-rox",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Phosphoran Phlox",
+        "name": "phosphoran phlox",
         "localized_names": [
             {
                 "language": "en",
@@ -105619,7 +95423,7 @@ export const monsters: Monster[] = [
         "island_likes": []
     },
     {
-        "name": "Rare Gnarls",
+        "name": "rare gnarls",
         "localized_names": [
             {
                 "language": "en",
@@ -105904,7 +95708,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bleatnik",
+        "name": "rare bleatnik",
         "localized_names": [
             {
                 "language": "en",
@@ -106079,7 +95883,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Osstax",
+        "name": "rare osstax",
         "localized_names": [
             {
                 "language": "en",
@@ -106254,7 +96058,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Arackulele",
+        "name": "epic arackulele",
         "localized_names": [
             {
                 "language": "en",
@@ -106429,7 +96233,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Uuduk",
+        "name": "rare uuduk",
         "localized_names": [
             {
                 "language": "en",
@@ -106621,7 +96425,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Floogull",
+        "name": "epic floogull",
         "localized_names": [
             {
                 "language": "en",
@@ -106835,7 +96639,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Fiddlement",
+        "name": "rare fiddlement",
         "localized_names": [
             {
                 "language": "en",
@@ -107027,7 +96831,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Clavi Gnat",
+        "name": "rare clavi gnat",
         "localized_names": [
             {
                 "language": "en",
@@ -107361,7 +97165,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Knurv",
+        "name": "rare knurv",
         "localized_names": [
             {
                 "language": "en",
@@ -107536,7 +97340,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Hairionette",
+        "name": "hairionette",
         "localized_names": [
             {
                 "language": "en",
@@ -107726,7 +97530,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Strombonin",
+        "name": "epic strombonin",
         "localized_names": [
             {
                 "language": "en",
@@ -108416,7 +98220,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Bulbo",
+        "name": "rare bulbo",
         "localized_names": [
             {
                 "language": "en",
@@ -108502,7 +98306,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Poppette",
+        "name": "rare poppette",
         "localized_names": [
             {
                 "language": "en",
@@ -108678,7 +98482,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Yelmut",
+        "name": "epic yelmut",
         "localized_names": [
             {
                 "language": "en",
@@ -108808,129 +98612,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "strombonin",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Strombonin"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Mythical",
-            "Cold"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Mythical Island",
-            "Cold Island",
-            "Gold Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 120
-                    },
-                    {
-                        "amount": 104,
-                        "level": 20,
-                        "maximum": 10800
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 1000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Mythical Island",
-                "combos": [
-                    {
-                        "parent_1_name": "spunge",
-                        "parent_2_name": "bowgart",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "combos": [
-                    {
-                        "parent_1_name": "spunge",
-                        "parent_2_name": "bowgart",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 126000,
-        "island_likes": [
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "g_joob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "cataliszt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "verdant-castle",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Cold Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "deedge",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "hollow-tree",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "inverdigus-fern",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "verdant-castle",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Rare G'day",
+        "name": "rare g'day",
         "localized_names": [
             {
                 "language": "en",
@@ -109116,7 +98798,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Dragong",
+        "name": "epic dragong",
         "localized_names": [
             {
                 "language": "en",
@@ -109291,7 +98973,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Krillby",
+        "name": "epic krillby",
         "localized_names": [
             {
                 "language": "en",
@@ -109421,7 +99103,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Cantorell",
+        "name": "rare cantorell",
         "localized_names": [
             {
                 "language": "en",
@@ -109608,7 +99290,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Fung Pray",
+        "name": "epic fung pray",
         "localized_names": [
             {
                 "language": "en",
@@ -109958,7 +99640,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Lowb",
+        "name": "lowb",
         "localized_names": [
             {
                 "language": "en",
@@ -110189,7 +99871,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Denchuhs",
+        "name": "rare denchuhs",
         "localized_names": [
             {
                 "language": "en",
@@ -110365,7 +100047,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic PongPing",
+        "name": "epic pongping",
         "localized_names": [
             {
                 "language": "en",
@@ -110495,208 +100177,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "hyehehe",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Hyehehe"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Mythical",
-            "Earth"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Earth Island",
-            "Mythical Island"
-        ],
-        "earnings": [
-            {
-                "island": "ALL",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 2,
-                        "level": 1,
-                        "maximum": 24
-                    },
-                    {
-                        "amount": 4,
-                        "level": 2,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 6,
-                        "level": 3,
-                        "maximum": 72
-                    },
-                    {
-                        "amount": 8,
-                        "level": 4,
-                        "maximum": 96
-                    },
-                    {
-                        "amount": 12,
-                        "level": 5,
-                        "maximum": 144
-                    },
-                    {
-                        "amount": 16,
-                        "level": 6,
-                        "maximum": 192
-                    },
-                    {
-                        "amount": 20,
-                        "level": 7,
-                        "maximum": 240
-                    },
-                    {
-                        "amount": 24,
-                        "level": 8,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 28,
-                        "level": 9,
-                        "maximum": 336
-                    },
-                    {
-                        "amount": 32,
-                        "level": 10,
-                        "maximum": 384
-                    },
-                    {
-                        "amount": 40,
-                        "level": 11,
-                        "maximum": 480
-                    },
-                    {
-                        "amount": 48,
-                        "level": 12,
-                        "maximum": 576
-                    },
-                    {
-                        "amount": 56,
-                        "level": 13,
-                        "maximum": 672
-                    },
-                    {
-                        "amount": 64,
-                        "level": 14,
-                        "maximum": 768
-                    },
-                    {
-                        "amount": 72,
-                        "level": 15,
-                        "maximum": 864
-                    },
-                    {
-                        "amount": 80,
-                        "level": 16,
-                        "maximum": 3840
-                    },
-                    {
-                        "amount": 88,
-                        "level": 17,
-                        "maximum": 4224
-                    },
-                    {
-                        "amount": 96,
-                        "level": 18,
-                        "maximum": 4608
-                    },
-                    {
-                        "amount": 102,
-                        "level": 19,
-                        "maximum": 4896
-                    },
-                    {
-                        "amount": 108,
-                        "level": 20,
-                        "maximum": 10368
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 500,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Earth Island",
-                "combos": [
-                    {
-                        "parent_1_name": "thumpies",
-                        "parent_2_name": "pompom",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 122400,
-        "island_likes": [
-            {
-                "island": "Earth Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "pompom",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "thumpies",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "g_joob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "strombonin",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Rare Pladdie",
+        "name": "rare pladdie",
         "localized_names": [
             {
                 "language": "en",
@@ -110909,7 +100390,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Edamimi",
+        "name": "epic edamimi",
         "localized_names": [
             {
                 "language": "en",
@@ -111419,7 +100900,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Pinghound",
+        "name": "rare pinghound",
         "localized_names": [
             {
                 "language": "en",
@@ -111594,7 +101075,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Brump",
+        "name": "epic brump",
         "localized_names": [
             {
                 "language": "en",
@@ -111692,7 +101173,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Zynth",
+        "name": "epic zynth",
         "localized_names": [
             {
                 "language": "en",
@@ -111964,7 +101445,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Dwumrohl",
+        "name": "epic dwumrohl",
         "localized_names": [
             {
                 "language": "en",
@@ -112174,7 +101655,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Thwok",
+        "name": "epic thwok",
         "localized_names": [
             {
                 "language": "en",
@@ -112326,7 +101807,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Spytrap",
+        "name": "rare spytrap",
         "localized_names": [
             {
                 "language": "en",
@@ -112518,7 +101999,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Roarick",
+        "name": "rare roarick",
         "localized_names": [
             {
                 "language": "en",
@@ -112693,7 +102174,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Plinkajou",
+        "name": "rare plinkajou",
         "localized_names": [
             {
                 "language": "en",
@@ -112906,7 +102387,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Mushaboom",
+        "name": "rare mushaboom",
         "localized_names": [
             {
                 "language": "en",
@@ -113092,137 +102573,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Cherubble",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Cherubble"
-            }
-        ],
-        "beds_required": 1,
-        "rarity": "common",
-        "elements": [
-            "Mythical",
-            "Fire"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Mythical Island",
-            "Fire Oasis",
-            "Gold Island",
-            "Composer Island"
-        ],
-        "earnings": [
-            {
-                "island": "Mythical Island",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 1,
-                        "level": 1,
-                        "maximum": 48
-                    },
-                    {
-                        "amount": 22,
-                        "level": 20,
-                        "maximum": 1056
-                    }
-                ]
-            },
-            {
-                "island": "Fire Oasis",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 6,
-                        "level": 1,
-                        "maximum": 288
-                    },
-                    {
-                        "amount": 132,
-                        "level": 20,
-                        "maximum": 6336
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "All Islands",
-                "cost": 1000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Fire Oasis",
-                "combos": [
-                    {
-                        "parent_1_name": "congle",
-                        "parent_2_name": "woolabee",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 122400,
-        "island_likes": [
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "cataliszt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "g_joob",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            },
-            {
-                "island": "Fire Oasis",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "congle",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "woolabee",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "babayag-tower",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "smunkin-patch",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Cruv'laaphtian Crocus",
+        "name": "cruv'laaphtian crocus",
         "localized_names": [
             {
                 "language": "en",
@@ -113522,7 +102873,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Mimic",
+        "name": "rare mimic",
         "localized_names": [
             {
                 "language": "en",
@@ -113689,7 +103040,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Tapricorn",
+        "name": "rare tapricorn",
         "localized_names": [
             {
                 "language": "en",
@@ -113881,182 +103232,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "shlep",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "shLep"
-            }
-        ],
-        "beds_required": 4,
-        "rarity": "common",
-        "elements": [
-            "Dream",
-            "Mythical"
-        ],
-        "class": "Mythical",
-        "islands": [
-            "Mythical Island"
-        ],
-        "earnings": [
-            {
-                "island": "Mythical Island",
-                "currency": "Coins",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 8,
-                        "level": 1,
-                        "maximum": 9490
-                    },
-                    {
-                        "amount": 13,
-                        "level": 2,
-                        "maximum": 14914
-                    },
-                    {
-                        "amount": 20,
-                        "level": 3,
-                        "maximum": 23048
-                    },
-                    {
-                        "amount": 26,
-                        "level": 4,
-                        "maximum": 30506
-                    },
-                    {
-                        "amount": 33,
-                        "level": 5,
-                        "maximum": 37963
-                    },
-                    {
-                        "amount": 40,
-                        "level": 6,
-                        "maximum": 45421
-                    },
-                    {
-                        "amount": 46,
-                        "level": 7,
-                        "maximum": 52878
-                    },
-                    {
-                        "amount": 53,
-                        "level": 8,
-                        "maximum": 61012
-                    },
-                    {
-                        "amount": 59,
-                        "level": 9,
-                        "maximum": 68470
-                    },
-                    {
-                        "amount": 66,
-                        "level": 10,
-                        "maximum": 75927
-                    },
-                    {
-                        "amount": 73,
-                        "level": 11,
-                        "maximum": 83385
-                    },
-                    {
-                        "amount": 79,
-                        "level": 12,
-                        "maximum": 90842
-                    },
-                    {
-                        "amount": 86,
-                        "level": 13,
-                        "maximum": 98977
-                    },
-                    {
-                        "amount": 92,
-                        "level": 14,
-                        "maximum": 106434
-                    },
-                    {
-                        "amount": 99,
-                        "level": 15,
-                        "maximum": 113986
-                    },
-                    {
-                        "amount": 104,
-                        "level": 16,
-                        "maximum": 119685
-                    },
-                    {
-                        "amount": 108,
-                        "level": 17,
-                        "maximum": 124420
-                    },
-                    {
-                        "amount": 111,
-                        "level": 18,
-                        "maximum": 127901
-                    },
-                    {
-                        "amount": 113,
-                        "level": 19,
-                        "maximum": 129817
-                    },
-                    {
-                        "amount": 115,
-                        "level": 20,
-                        "maximum": 132031
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Mythical Island",
-                "cost": 220,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [
-            {
-                "island": "Mythical Island",
-                "combos": [
-                    {
-                        "parent_1_name": "cataliszt",
-                        "parent_2_name": "cherubble",
-                        "hide_parent_1_link": false
-                    }
-                ]
-            }
-        ],
-        "breeding_time": 93600,
-        "island_likes": [
-            {
-                "island": "Mythical Island",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "Cataliszt",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Hollow Log",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Striking Bulbs",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "Yum Yum Tree",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Epic Zuuker",
+        "name": "epic zuuker",
         "localized_names": [
             {
                 "language": "en",
@@ -114190,7 +103366,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Epic Tiawa",
+        "name": "epic tiawa",
         "localized_names": [
             {
                 "language": "en",
@@ -114497,7 +103673,7 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        "name": "Rare Squot",
+        "name": "rare squot",
         "localized_names": [
             {
                 "language": "en",
@@ -114671,169 +103847,6 @@ export const monsters: Monster[] = [
                     {
                         "type": "decoration",
                         "name": "striking-bulbs",
-                        "mystery": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Bogle",
-        "localized_names": [
-            {
-                "language": "en",
-                "name": "Bogle"
-            }
-        ],
-        "beds_required": 0,
-        "rarity": "common",
-        "elements": [
-            "Air Primordial"
-        ],
-        "class": "Primordial",
-        "islands": [
-            "Mech Islet"
-        ],
-        "earnings": [
-            {
-                "island": "Mech Islet",
-                "currency": "Shards",
-                "unit": "Minute",
-                "level_earnings": [
-                    {
-                        "amount": 5,
-                        "level": 1,
-                        "maximum": 35
-                    },
-                    {
-                        "amount": 10,
-                        "level": 2,
-                        "maximum": 70
-                    },
-                    {
-                        "amount": 15,
-                        "level": 3,
-                        "maximum": 105
-                    },
-                    {
-                        "amount": 20,
-                        "level": 4,
-                        "maximum": 140
-                    },
-                    {
-                        "amount": 25,
-                        "level": 5,
-                        "maximum": 175
-                    },
-                    {
-                        "amount": 30,
-                        "level": 6,
-                        "maximum": 210
-                    },
-                    {
-                        "amount": 35,
-                        "level": 7,
-                        "maximum": 245
-                    },
-                    {
-                        "amount": 40,
-                        "level": 8,
-                        "maximum": 280
-                    },
-                    {
-                        "amount": 45,
-                        "level": 9,
-                        "maximum": 315
-                    },
-                    {
-                        "amount": 50,
-                        "level": 10,
-                        "maximum": 350
-                    },
-                    {
-                        "amount": 55,
-                        "level": 11,
-                        "maximum": 385
-                    },
-                    {
-                        "amount": 60,
-                        "level": 12,
-                        "maximum": 420
-                    },
-                    {
-                        "amount": 65,
-                        "level": 13,
-                        "maximum": 455
-                    },
-                    {
-                        "amount": 70,
-                        "level": 14,
-                        "maximum": 490
-                    },
-                    {
-                        "amount": 75,
-                        "level": 15,
-                        "maximum": 525
-                    },
-                    {
-                        "amount": 80,
-                        "level": 16,
-                        "maximum": 560
-                    },
-                    {
-                        "amount": 85,
-                        "level": 17,
-                        "maximum": 595
-                    },
-                    {
-                        "amount": 90,
-                        "level": 18,
-                        "maximum": 630
-                    },
-                    {
-                        "amount": 95,
-                        "level": 19,
-                        "maximum": 665
-                    },
-                    {
-                        "amount": 100,
-                        "level": 20,
-                        "maximum": 700
-                    }
-                ]
-            }
-        ],
-        "island_costs": [
-            {
-                "island": "Mech Islet",
-                "cost": 5000,
-                "unit": "Diamonds"
-            }
-        ],
-        "breeding": [],
-        "breeding_time": 180000,
-        "island_likes": [
-            {
-                "island": "Mech Islet",
-                "likes": [
-                    {
-                        "type": "monster",
-                        "name": "gaddzooks",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "nitebear",
-                        "mystery": false
-                    },
-                    {
-                        "type": "decoration",
-                        "name": "teeter-tauter",
-                        "mystery": false
-                    },
-                    {
-                        "type": "monster",
-                        "name": "bellowfish",
                         "mystery": true
                     }
                 ]
@@ -115451,66 +104464,67 @@ export const monsters: Monster[] = [
         ]
     },
     {
-        name: "scallyrags",
-        beds_required: 4,
-        localized_names: [
+        "name": "scallyrags",
+        "beds_required": 4,
+        "localized_names": [
             {
-                language: "en",
-                name: "Scallyrags"
+                "language": "en",
+                "name": "Scallyrags"
             }
         ],
-        breeding: [
+        "breeding": [
             {
-                combos: [
+                "combos": [
                     {
-                        parent_1_name: "hairionette",
-                        parent_2_name: "owlesque",
-                    },
+                        "parent_1_name": "hairionette",
+                        "parent_2_name": "owlesque"
+                    }
                 ],
-                island: "Paironormal Carnival",
-            },
+                "island": "Paironormal Carnival"
+            }
         ],
-        breeding_time: (60 * 60 * 24) + (60 * 60 * 21), //1d21h
-        class: "Paironormal",
-        elements: [
-            "Control", "Hoax",
+        "breeding_time": 162000,
+        "class": "Paironormal",
+        "elements": [
+            "Control",
+            "Hoax"
         ],
-        earnings: [
+        "earnings": [
             {
-                currency: "Starpower",
-                island: "Paironormal Carnival",
-                level_earnings: [
+                "currency": "Starpower",
+                "island": "Paironormal Carnival",
+                "level_earnings": [
                     {
-                        amount: 0,
-                        level: 0,
-                        maximum: 0,
-                    },
+                        "amount": 0,
+                        "level": 0,
+                        "maximum": 0
+                    }
                 ],
-                unit: "Week",
-            },
+                "unit": "Week"
+            }
         ],
-        island_costs: [
+        "island_costs": [
             {
-                cost: 3000,
-                unit: "Diamonds",
-                island: "Paironormal Carnival",
-            },
+                "cost": 3000,
+                "unit": "Diamonds",
+                "island": "Paironormal Carnival"
+            }
         ],
-        island_likes: [
+        "island_likes": [
             {
-                island: "All Islands",
-                likes: [
+                "island": "All Islands",
+                "likes": [
                     {
-                        name: "Unknown",
-                        type: "monster",
-                    },
-                ],
-            },
+                        "name": "Unknown",
+                        "type": "monster"
+                    }
+                ]
+            }
         ],
-        islands: [
-            "Paironormal Carnival",
+        "islands": [
+            "Paironormal Carnival"
         ],
-        rarity: "common",
+        "rarity": "common"
     }
 ];
 

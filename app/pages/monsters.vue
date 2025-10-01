@@ -30,6 +30,13 @@
                 <option value="rare">Rare</option>
                 <option value="epic">Epic</option>
             </select>
+            <select v-model="sortBy" class="filter-select">
+                <option value="name">Sort by: Name</option>
+                <option value="elements">Sort by: Elements</option>
+                <option value="rarity">Sort by: Rarity</option>
+                <option value="cost">Sort by: Cost</option>
+                <option value="beds">Sort by: Beds Required</option>
+            </select>
         </div>
         
         <ClientOnly>
@@ -121,18 +128,22 @@ export default defineComponent({
         return {
             searchQuery: "",
             filterClass: "",
-            filterRarity: ""
+            filterRarity: "",
+            sortBy: "name"
         };
     },
     computed: {
         filteredMonsters() {
-            return monsters.filter(monster => {
+            let filtered = monsters.filter(monster => {
                 const displayName = getDisplayName(monster);
                 const matchesSearch = displayName.toLowerCase().includes(this.searchQuery.toLowerCase());
                 const matchesClass = !this.filterClass || monster.class === this.filterClass;
                 const matchesRarity = !this.filterRarity || monster.rarity === this.filterRarity;
                 return matchesSearch && matchesClass && matchesRarity;
             });
+
+            // Sort the filtered monsters
+            return this.sortMonsters(filtered);
         }
     },
     watch: {
@@ -143,6 +154,9 @@ export default defineComponent({
             this.updateQueryString();
         },
         filterRarity(newValue) {
+            this.updateQueryString();
+        },
+        sortBy(newValue) {
             this.updateQueryString();
         }
     },
@@ -158,6 +172,9 @@ export default defineComponent({
         if (query.rarity) {
             this.filterRarity = query.rarity as string;
         }
+        if (query.sort) {
+            this.sortBy = query.sort as string;
+        }
     },
     methods: {
         updateQueryString() {
@@ -172,9 +189,51 @@ export default defineComponent({
             if (this.filterRarity) {
                 query.rarity = this.filterRarity;
             }
+            if (this.sortBy && this.sortBy !== 'elements') {
+                query.sort = this.sortBy;
+            }
             
             //update the URL without reloading the page
             this.$router.push({ query });
+        },
+        sortMonsters(monsterList: typeof monsters) {
+            const sorted = [...monsterList];
+            
+            switch (this.sortBy) {
+                case 'name':
+                    return sorted.sort((a, b) => getDisplayName(a).localeCompare(getDisplayName(b)));
+                    
+                case 'rarity':
+                    const rarityOrder = { 'common': 0, 'rare': 1, 'epic': 2 };
+                    return sorted.sort((a, b) => {
+                        const rarityDiff = rarityOrder[a.rarity] - rarityOrder[b.rarity];
+                        if (rarityDiff !== 0) return rarityDiff;
+                        return getDisplayName(a).localeCompare(getDisplayName(b));
+                    });
+                    
+                case 'cost':
+                    return sorted.sort((a, b) => {
+                        const costA = a.island_costs[0]?.cost || 0;
+                        const costB = b.island_costs[0]?.cost || 0;
+                        if (costA !== costB) return costA - costB;
+                        return getDisplayName(a).localeCompare(getDisplayName(b));
+                    });
+                    
+                case 'beds':
+                    return sorted.sort((a, b) => {
+                        const bedsDiff = a.beds_required - b.beds_required;
+                        if (bedsDiff !== 0) return bedsDiff;
+                        return getDisplayName(a).localeCompare(getDisplayName(b));
+                    });
+                    
+                case 'elements':
+                default:
+                    return sorted.sort((a, b) => {
+                        const elementDiff = a.elements.length - b.elements.length;
+                        if (elementDiff !== 0) return elementDiff;
+                        return getDisplayName(a).localeCompare(getDisplayName(b));
+                    });
+            }
         }
     }
 });
