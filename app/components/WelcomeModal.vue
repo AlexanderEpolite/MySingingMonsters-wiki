@@ -6,7 +6,9 @@
                     <div class="modal-content">
                         <h2>Alex's Unofficial MSM Wiki</h2>
                         <p>
-                            100% of the information has been filled in by an AI which has read information from the Fandom page.  Do not use this wiki
+                            100% of the information has been filled in by an AI which has read information from the Fandom page.
+                            <br /><br />
+                            Do not use this wiki
                             for anything other than contributing!  Nearly all of the information on this website is unreliable or false right now.
                             <br /><br />
                             You may contribute to the site to add corrections through the GitHub Repository or join our Discord community!
@@ -287,7 +289,7 @@ export default defineComponent({
             this.showModal = false;
         },
         handleBackgroundClick() {
-            //do nothing - prevent closing on background click
+            
         },
         startCountdown() {
             this.countdownInterval = setInterval(() => {
@@ -302,11 +304,9 @@ export default defineComponent({
         }
     },
     mounted() {
-        //check if user has dismissed the modal before
         const dismissed = localStorage.getItem("msm-wiki-welcome-dismissed");
         
         if (!dismissed) {
-            //small delay before showing modal for better ux
             setTimeout(() => {
                 this.showModal = true;
                 this.startCountdown();
