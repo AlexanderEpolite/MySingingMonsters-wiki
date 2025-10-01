@@ -2,7 +2,7 @@
     <nav class="top-nav">
         <div class="container nav-content">
             <NuxtLink to="/" class="logo">
-                <h1>My Singing Monsters Wiki</h1>
+                <h1>Unofficial My Singing Monsters Wiki</h1>
             </NuxtLink>
             <div class="nav-links">
                 <NuxtLink to="/monsters">Monsters</NuxtLink>

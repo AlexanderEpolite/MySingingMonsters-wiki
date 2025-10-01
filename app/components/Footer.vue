@@ -30,9 +30,6 @@
                     Some information from this website obtained from MySingingMonsters Fandom, available from CC-BY-SA.
                 </p>
             </div>
-            <div class="footer-bottom">
-                <p>&copy; {{ currentYear }} My Singing Monsters Wiki. Fan-made resource.</p>
-            </div>
         </div>
     </footer>
 </template>

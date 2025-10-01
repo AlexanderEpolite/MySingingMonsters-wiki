@@ -6,11 +6,11 @@ export default defineNuxtConfig({
   
   app: {
     head: {
-      title: 'My Singing Monsters Wiki',
+      title: 'Unofficial My Singing Monsters Wiki',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'Comprehensive wiki for My Singing Monsters - monsters, islands, breeding guides, and more!' },
+        { name: 'description', content: 'Unofficial wiki for My Singing Monsters - VERY early in development!' },
         { name: 'color-scheme', content: 'dark' }
       ],
       link: [

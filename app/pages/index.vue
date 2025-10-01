@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="hero">
-            <h1>Welcome to My Singing Monsters Wiki</h1>
+            <h1>Unofficial MSM Wiki</h1>
             <p>Your comprehensive guide to monsters, islands, breeding, and more!</p>
         </div>
         
