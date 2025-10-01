@@ -13,7 +13,7 @@
         <div v-else-if="content">
             <div class="guide-content" v-html="content"></div>
             
-            <a :href="`https://github.com/AlexanderEpolite/MySingingMonsters-wiki/edit/main/app/data/guides/${guideName}.md`"
+            <a :href="`https://github.com/AlexanderEpolite/MySingingMonsters-wiki/edit/master/app/data/guides/${guideName}.md`"
                 target="_blank" rel="noopener noreferrer" class="edit-link">
                 Edit this guide on GitHub
             </a>
