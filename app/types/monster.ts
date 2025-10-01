@@ -124,6 +124,7 @@ type Island =
     | "The Colossingum"
     | "Tribal Island"
     | "Composer Island"
+    | "Paironormal Carnival"
     
     //mirror natural
     | "Mirror Plant Island"
@@ -142,7 +143,7 @@ export type Currency = "Shards" | "Coins" | "Diamonds" | "Relics" | "Keys" | "Tr
 export type Earning = {
     island: Island | "ALL",
     currency: Currency,
-    unit: "Minute" | "Hour" | "Month",
+    unit: "Minute" | "Hour" | "Week" | "Month",
     level_earnings: {
         amount: number, //at 0% happiness
         level: number,
@@ -199,3 +200,5 @@ type BaseMonster = {
 };
 
 export type Monster = BaseMonster;
+
+// const m: Monster = 

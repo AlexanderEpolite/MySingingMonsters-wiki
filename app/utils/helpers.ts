@@ -64,3 +64,14 @@ export function getMonsterSlug(name: string): string {
 export function getIslandSlug(name: string): string {
     return name.toLowerCase().replaceAll(" ", "-");
 }
+
+export function getDisplayName(monster: any): string {
+    // Get the English localized name if available
+    const localizedName = monster.localized_names?.find((ln: any) => ln.language === 'en')?.name;
+    return localizedName || monster.name;
+}
+
+export function getElementImage(element: string): string {
+    const elementSlug = element.toLowerCase().replaceAll(' ', '-');
+    return `/images/elements/${elementSlug}.webp`;
+}

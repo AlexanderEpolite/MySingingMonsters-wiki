@@ -4,17 +4,13 @@
             <p>Monster not found</p>
             <NuxtLink to="/monsters">← Back to all monsters</NuxtLink>
         </div>
-        
+
         <div v-else class="monster-detail">
             <div class="monster-header">
-                <img 
-                    :src="getURLFromName(monster.name, false, 'monster')"
-                    :alt="monster.name"
-                    class="monster-image"
-                    @error="handleImageError"
-                />
+                <img :src="getURLFromName(monster.name, false, 'monster')" :alt="getLocalizedMonsterName(monster.name)"
+                    class="monster-image" @error="handleImageError" />
                 <div class="monster-info">
-                    <h1>{{ monster.name }}</h1>
+                    <h1>{{ getLocalizedMonsterName(monster.name) }}</h1>
                     <div class="badges">
                         <span :class="['badge', monster.rarity]">{{ monster.rarity }}</span>
                         <span class="badge">{{ monster.class }}</span>
@@ -22,38 +18,33 @@
                     <div class="elements">
                         <h3>Elements</h3>
                         <div class="element-list">
-                            <span v-for="element in monster.elements" :key="element" class="element-badge">
-                                {{ element }}
-                            </span>
+                            <NuxtLink v-for="element in monster.elements" :key="element"
+                                :to="`/element/${element.toLowerCase()}`" class="element-link">
+                                <img :src="getElementImage(element)" :alt="element" :title="element"
+                                    class="element-icon" @error="handleElementImageError" />
+                            </NuxtLink>
                         </div>
                     </div>
                     <div class="basic-info">
                         <p><strong>Beds Required:</strong> {{ monster.beds_required }}</p>
                         <p><strong>Breeding Time:</strong> {{ formatTime(monster.breeding_time) }}</p>
+                        <p><strong>Enhanced Breeding Time:</strong> {{ formatTime(monster.breeding_time * 0.75) }}</p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="card" v-if="monster.islands.length > 0">
                 <h2>Available Islands</h2>
                 <div class="island-list">
-                    <NuxtLink 
-                        v-for="island in monster.islands" 
-                        :key="island"
-                        :to="`/island/${getIslandSlug(island)}`"
-                        class="island-card-mini"
-                    >
-                        <img 
-                            :src="getIslandImage(island)"
-                            :alt="island"
-                            class="island-mini-image"
-                            @error="handleImageError"
-                        />
+                    <NuxtLink v-for="island in monster.islands" :key="island" :to="`/island/${getIslandSlug(island)}`"
+                        class="island-card-mini">
+                        <img :src="getIslandImage(island)" :alt="island" class="island-mini-image"
+                            @error="handleImageError" />
                         <span>{{ island }}</span>
                     </NuxtLink>
                 </div>
             </div>
-            
+
             <div class="card" v-if="monster.breeding.length > 0">
                 <h2>Obtaining</h2>
                 <div v-for="breedInfo in monster.breeding" :key="breedInfo.island" class="breeding-section">
@@ -61,42 +52,30 @@
                     <div class="combos">
                         <div v-for="(combo, index) in breedInfo.combos" :key="index" class="combo">
                             <div class="combo-parents">
-                                <NuxtLink 
-                                    v-if="!combo.hide_parent_1_link && combo.parent_1_name"
-                                    :to="`/monster/${getMonsterSlug(combo.parent_1_name)}`"
-                                    class="parent-monster"
-                                >
-                                    <img 
-                                        :src="getURLFromName(combo.parent_1_name, false, 'monster')"
-                                        :alt="combo.parent_1_name"
-                                        class="monster-icon"
-                                        @error="handleImageError"
-                                    />
-                                    <span>{{ combo.parent_1_name }}</span>
+                                <NuxtLink v-if="!combo.hide_parent_1_link && combo.parent_1_name"
+                                    :to="`/monster/${getMonsterSlug(combo.parent_1_name)}`" class="parent-monster">
+                                    <img :src="getURLFromName(combo.parent_1_name, false, 'monster')"
+                                        :alt="getLocalizedMonsterName(combo.parent_1_name)" class="monster-icon"
+                                        @error="handleImageError" />
+                                    <span>{{ getLocalizedMonsterName(combo.parent_1_name) }}</span>
                                 </NuxtLink>
                                 <span v-else class="parent-text">{{ combo.parent_1_name }}</span>
-                                
+
                                 <span v-if="combo.parent_2_name" class="combo-plus">+</span>
-                                
-                                <NuxtLink 
-                                    v-if="combo.parent_2_name"
-                                    :to="`/monster/${getMonsterSlug(combo.parent_2_name)}`"
-                                    class="parent-monster"
-                                >
-                                    <img 
-                                        :src="getURLFromName(combo.parent_2_name, false, 'monster')"
-                                        :alt="combo.parent_2_name"
-                                        class="monster-icon"
-                                        @error="handleImageError"
-                                    />
-                                    <span>{{ combo.parent_2_name }}</span>
+
+                                <NuxtLink v-if="combo.parent_2_name"
+                                    :to="`/monster/${getMonsterSlug(combo.parent_2_name)}`" class="parent-monster">
+                                    <img :src="getURLFromName(combo.parent_2_name, false, 'monster')"
+                                        :alt="getLocalizedMonsterName(combo.parent_2_name)" class="monster-icon"
+                                        @error="handleImageError" />
+                                    <span>{{ getLocalizedMonsterName(combo.parent_2_name) }}</span>
                                 </NuxtLink>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
             <div class="card" v-if="monster.island_costs.length > 0">
                 <h2>Costs</h2>
                 <table>
@@ -111,11 +90,7 @@
                             <td>{{ cost.island }}</td>
                             <td>
                                 <div class="currency-cell">
-                                    <img 
-                                        :src="getCurrencyImage(cost.unit)"
-                                        :alt="cost.unit"
-                                        class="currency-icon"
-                                    />
+                                    <img :src="getCurrencyImage(cost.unit)" :alt="cost.unit" class="currency-icon" />
                                     {{ formatNumber(cost.cost) }}
                                 </div>
                             </td>
@@ -123,20 +98,17 @@
                     </tbody>
                 </table>
             </div>
-            
+
             <div class="card" v-if="monster.earnings.length > 0">
                 <h2>Earnings</h2>
                 <div v-for="earning in monster.earnings" :key="earning.island" class="earning-section">
                     <h3>
-                        {{ earning.island === 'ALL' ? '' : earning.island + " - " }}
-                        <img 
-                            :src="getCurrencyImage(earning.currency)"
-                            :alt="earning.currency"
-                            class="currency-icon-inline"
-                        />
+                        {{ earning.island === "ALL" ? "" : earning.island + " - " }}
+                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                            class="currency-icon-inline" />
                         Per {{ earning.unit }}
                     </h3>
-                    
+
                     <table class="earnings-table">
                         <thead>
                             <tr>
@@ -154,61 +126,43 @@
                                 <td>{{ level.level }}</td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(calculateHappinessAmount(level.amount, 0)) }}
                                     </div>
                                 </td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(calculateHappinessAmount(level.amount, 25)) }}
                                     </div>
                                 </td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(calculateHappinessAmount(level.amount, 50)) }}
                                     </div>
                                 </td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(calculateHappinessAmount(level.amount, 75)) }}
                                     </div>
                                 </td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(calculateHappinessAmount(level.amount, 100)) }}
                                     </div>
                                 </td>
                                 <td>
                                     <div class="currency-cell">
-                                        <img 
-                                            :src="getCurrencyImage(earning.currency)"
-                                            :alt="earning.currency"
-                                            class="currency-icon"
-                                        />
+                                        <img :src="getCurrencyImage(earning.currency)" :alt="earning.currency"
+                                            class="currency-icon" />
                                         {{ formatNumber(level.maximum) }}
                                     </div>
                                 </td>
@@ -217,25 +171,19 @@
                     </table>
                 </div>
             </div>
-            
+
             <div class="card" v-if="monster.island_likes.length > 0">
                 <h2>Likes</h2>
                 <div v-for="islandLikes in monster.island_likes" :key="islandLikes.island" class="likes-section">
                     <h3>{{ islandLikes.island }}</h3>
                     <div class="likes-grid">
-                        <NuxtLink 
-                            v-for="like in islandLikes.likes" 
-                            :key="like.name" 
+                        <NuxtLink v-for="like in islandLikes.likes" :key="like.name"
                             :to="like.type === 'monster' ? `/monster/${getMonsterSlug(like.name)}` : '#'"
-                            class="like-item"
-                        >
-                            <img 
-                                :src="getURLFromName(like.name, false, like.type)"
-                                :alt="like.name"
-                                class="like-icon"
-                                @error="handleImageError"
-                            />
-                            <span>{{ like.name }}</span>
+                            class="like-item">
+                            <img :src="getURLFromName(like.name, false, like.type)"
+                                :alt="like.type === 'monster' ? getLocalizedMonsterName(like.name) : like.name"
+                                class="like-icon" @error="handleImageError" />
+                            <span>{{ like.type === "monster" ? getLocalizedMonsterName(like.name) : like.name }}</span>
                             <span v-if="like.mystery" class="mystery-badge">Mystery</span>
                         </NuxtLink>
                     </div>
@@ -282,11 +230,20 @@
     margin-bottom: 1.5rem;
 }
 
-.element-badge {
-    padding: 0.5rem 1rem;
-    background-color: var(--ctp-surface1);
-    border-radius: 0.5rem;
-    font-weight: 500;
+.element-link {
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+.element-link:hover {
+    transform: scale(1.1);
+}
+
+.element-icon {
+    width: 50px;
+    height: auto;
+    object-fit: contain;
+    display: block;
 }
 
 .basic-info p {
@@ -332,7 +289,7 @@
 .island-mini-image {
     width: 40px;
     height: 40px;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 0.25rem;
 }
 
@@ -466,7 +423,7 @@
     .monster-header {
         grid-template-columns: 1fr;
     }
-    
+
     .earnings-table {
         display: block;
         overflow-x: auto;
@@ -477,7 +434,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import { monsters } from "~/data/monsters";
-import { getURLFromName, formatTime, formatNumber, getMonsterSlug, getIslandSlug, getCurrencyImage, getIslandImage } from "~/utils/helpers";
+import { getURLFromName, formatTime, formatNumber, getMonsterSlug, getIslandSlug, getCurrencyImage, getIslandImage, getElementImage } from "~/utils/helpers";
 
 export default defineComponent({
     data() {
@@ -499,13 +456,29 @@ export default defineComponent({
             const target = event.target as HTMLImageElement;
             target.src = "/images/placeholder.webp";
         },
+        handleElementImageError(event: Event) {
+            const target = event.target as HTMLImageElement;
+            target.style.display = 'none';
+        },
+        getLocalizedMonsterName(monsterName: string): string {
+            //find the monster by name
+            const monster = monsters.find(m => m.name === monsterName);
+            if(!monster) {
+                return monsterName;
+            }
+
+            //get the localized name for "en" language
+            const localizedName = monster.localized_names.find(ln => ln.language === "en");
+            return localizedName ? localizedName.name : monsterName;
+        },
         getURLFromName,
         formatTime,
         formatNumber,
         getMonsterSlug,
         getIslandSlug,
         getCurrencyImage,
-        getIslandImage
+        getIslandImage,
+        getElementImage
     }
 });
 </script>

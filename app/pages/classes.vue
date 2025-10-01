@@ -10,6 +10,9 @@
                 :to="`/class/${monsterClass.slug}`"
                 class="class-card"
             >
+                <div class="preview-image">
+                    <img :src="monsterClass.previewImage" :alt="`${monsterClass.name} preview`" />
+                </div>
                 <h3>{{ monsterClass.name }}</h3>
                 <p class="count">{{ monsterClass.count }} monster(s)</p>
             </NuxtLink>
@@ -20,19 +23,28 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { monsters } from '~/data/monsters';
+import { getURLFromName } from '~/utils/helpers';
 
 const classes = computed(() => {
-    const classMap = new Map<string, number>();
+    const classMap = new Map<string, { count: number; firstMonster: string }>();
     
     monsters.forEach(monster => {
-        const count = classMap.get(monster.class) || 0;
-        classMap.set(monster.class, count + 1);
+        const existing = classMap.get(monster.class);
+        if (existing) {
+            existing.count++;
+        } else {
+            classMap.set(monster.class, { 
+                count: 1, 
+                firstMonster: monster.name 
+            });
+        }
     });
     
-    return Array.from(classMap.entries()).map(([name, count]) => ({
+    return Array.from(classMap.entries()).map(([name, data]) => ({
         name,
         slug: name.toLowerCase().replace(/\s+/g, '-'),
-        count
+        count: data.count,
+        previewImage: getURLFromName(data.firstMonster, false, 'monster')
     })).sort((a, b) => a.name.localeCompare(b.name));
 });
 </script>
@@ -53,15 +65,35 @@ const classes = computed(() => {
     background-color: var(--ctp-surface0);
     border: 1px solid var(--ctp-surface2);
     border-radius: 0.75rem;
-    padding: 2rem 1.5rem;
+    padding: 1.5rem;
     text-align: center;
     transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .class-card:hover {
     transform: translateY(-5px);
     border-color: var(--ctp-mauve);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.preview-image {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.preview-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 0.5rem;
 }
 
 .class-card h3 {
