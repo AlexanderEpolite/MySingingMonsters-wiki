@@ -2,20 +2,12 @@
     <div class="container">
         <h1>All Islands</h1>
         <p class="subtitle">Explore all islands in My Singing Monsters</p>
-        
+
         <div class="island-grid">
-            <NuxtLink 
-                v-for="island in islands" 
-                :key="island.name"
-                :to="`/island/${getIslandSlug(island.name)}`"
-                class="island-card"
-            >
-                <img 
-                    :src="getIslandImage(island.name)"
-                    :alt="island.name"
-                    class="island-image"
-                    @error="handleImageError"
-                />
+            <NuxtLink v-for="island in islands" :key="island.name" :to="`/island/${getIslandSlug(island.name)}`"
+                class="island-card">
+                <img :src="getIslandImage(island.name)" :alt="island.name" class="island-image"
+                    @error="handleImageError" />
                 <h3>{{ island.name }}</h3>
                 <span class="badge">{{ island.type }}</span>
                 <p class="description">{{ island.description }}</p>
@@ -69,7 +61,7 @@ const handleImageError = (event: Event) => {
 .island-image {
     width: 100%;
     height: 200px;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
 }
