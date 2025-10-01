@@ -11,7 +11,7 @@
                             Do not use this wiki
                             for anything other than contributing!  Nearly all of the information on this website is unreliable or false right now.
                             <br /><br />
-                            You may contribute to the site to add corrections through the GitHub Repository or join our Discord community!
+                            You may contribute to the site to add corrections through the GitHub Repository or join the Discord server!
                         </p>
                         
                         <div class="social-links">
@@ -23,7 +23,7 @@
                             <a href="https://discord.gg/eD4EtNmvJS" target="_blank"
                                 rel="noopener noreferrer" class="social-link discord">
                                 <Icon name="uil:discord" />
-                                <span>Join our Discord</span>
+                                <span>Join the Server</span>
                             </a>
                         </div>
 
