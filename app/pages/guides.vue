@@ -1,17 +1,21 @@
+<script setup lang="ts">
+import { AVAILABLE_GUIDES } from '~/data/guide-metadata';
+</script>
+
 <template>
     <div class="container">
         <h1>Guides</h1>
         <p class="subtitle">Helpful guides for My Singing Monsters</p>
         
         <div class="guide-grid">
-            <NuxtLink to="/guide/shard-farming" class="guide-card">
-                <h3>Shard Farming</h3>
-                <p>Shard farming guide</p>
-            </NuxtLink>
-            
-            <NuxtLink to="/guide/example" class="guide-card">
-                <h3>Example Guide</h3>
-                <p>Example Guide for making new guides</p>
+            <NuxtLink 
+                v-for="guide in AVAILABLE_GUIDES" 
+                :key="guide.slug"
+                :to="`/guide/${guide.slug}`" 
+                class="guide-card"
+            >
+                <h3>{{ guide.title }}</h3>
+                <p>{{ guide.description }}</p>
             </NuxtLink>
         </div>
     </div>

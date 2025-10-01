@@ -4,6 +4,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/fonts', '@nuxt/icon'],
   
+  vite: {
+    assetsInclude: ['**/*.md']
+  },
+  
   app: {
     head: {
       title: 'Unofficial My Singing Monsters Wiki',
