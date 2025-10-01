@@ -9,17 +9,24 @@
             <h1>{{ className }} Monsters</h1>
             <p class="subtitle">All monsters in the {{ className }} class</p>
             
-            <div class="monster-grid">
-                <MonsterCard 
-                    v-for="monster in classMonsters" 
-                    :key="monster.name"
-                    :monster="monster"
-                />
-            </div>
-            
-            <div v-if="classMonsters.length === 0" class="no-results">
-                <p>No monsters found in this class.</p>
-            </div>
+            <ClientOnly>
+                <div class="monster-grid">
+                    <MonsterCard 
+                        v-for="(monster, index) in classMonsters" 
+                        :key="`${monster.name}-${index}`"
+                        :monster="monster"
+                    />
+                </div>
+                
+                <div v-if="classMonsters.length === 0" class="no-results">
+                    <p>No monsters found in this class.</p>
+                </div>
+                <template #fallback>
+                    <div class="loading">
+                        <p>Loading monsters...</p>
+                    </div>
+                </template>
+            </ClientOnly>
         </div>
     </div>
 </template>
@@ -58,5 +65,12 @@ const classMonsters = computed(() => {
     text-align: center;
     padding: 3rem;
     color: var(--ctp-subtext0);
+}
+
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: var(--ctp-subtext0);
+    font-size: 1.2rem;
 }
 </style>

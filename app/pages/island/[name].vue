@@ -40,25 +40,33 @@
             
             <div class="card">
                 <h2>Monsters on {{ island.name }}</h2>
-                <div class="monster-grid">
-                    <NuxtLink 
-                        v-for="monster in islandMonsters" 
-                        :key="monster.name"
-                        :to="`/monster/${getMonsterSlug(monster.name)}`"
-                        class="monster-card"
-                    >
-                        <img 
-                            :src="getURLFromName(monster.name, false, 'monster')"
-                            :alt="monster.name"
-                            class="monster-icon"
-                            @error="handleImageError"
-                        />
-                        <span>{{ monster.name }}</span>
-                    </NuxtLink>
-                </div>
-                <p v-if="islandMonsters.length === 0" class="no-monsters">
-                    No monsters data available for this island yet.
-                </p>
+                <ClientOnly>
+                    <div class="monster-grid">
+                        <NuxtLink 
+                            v-for="(monster, index) in islandMonsters" 
+                            :key="`${monster.name}-${index}`"
+                            :to="`/monster/${getMonsterSlug(monster.name)}`"
+                            class="monster-card"
+                        >
+                            <img 
+                                :key="monster.name"
+                                :src="getURLFromName(monster.name, false, 'monster')"
+                                :alt="monster.name"
+                                class="monster-icon"
+                                @error="handleImageError"
+                            />
+                            <span>{{ monster.name }}</span>
+                        </NuxtLink>
+                    </div>
+                    <p v-if="islandMonsters.length === 0" class="no-monsters">
+                        No monsters data available for this island yet.
+                    </p>
+                    <template #fallback>
+                        <div class="loading">
+                            <p>Loading monsters...</p>
+                        </div>
+                    </template>
+                </ClientOnly>
             </div>
         </div>
     </div>
@@ -156,5 +164,12 @@ const handleImageError = (event: Event) => {
     text-align: center;
     color: var(--ctp-subtext0);
     padding: 2rem;
+}
+
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: var(--ctp-subtext0);
+    font-size: 1.2rem;
 }
 </style>

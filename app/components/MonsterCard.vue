@@ -4,11 +4,11 @@
         class="monster-card"
     >
         <img 
+            :key="monster.name"
             :src="getURLFromName(monster.name, false, 'monster')" 
             :alt="getDisplayName(monster)" 
             class="monster-icon"
-            @error="handleImageError" 
-            loading="lazy" 
+            @error="handleImageError"
         />
         <h3>{{ getDisplayName(monster) }}</h3>
         <div class="monster-meta">
@@ -24,11 +24,12 @@
                 @click.stop
             >
                 <img 
+                    :key="element"
                     :src="getElementImage(element)" 
                     :alt="element" 
                     :title="element"
                     class="element-icon"
-                    @error="handleElementImageError" 
+                    @error="handleElementImageError"
                 />
             </NuxtLink>
         </div>
@@ -68,6 +69,7 @@ const handleElementImageError = (event: Event) => {
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-height: 250px;
 }
 
 .monster-card:hover {
@@ -81,6 +83,8 @@ const handleElementImageError = (event: Event) => {
     height: 80px;
     margin-bottom: 1rem;
     object-fit: contain;
+    display: block;
+    flex-shrink: 0;
 }
 
 .monster-card h3 {
@@ -138,9 +142,10 @@ const handleElementImageError = (event: Event) => {
 }
 
 .element-icon {
-    width: 50px;
-    height: auto;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
     display: block;
+    flex-shrink: 0;
 }
 </style>
