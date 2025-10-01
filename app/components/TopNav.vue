@@ -18,7 +18,7 @@
 <style scoped>
 .top-nav {
     background-color: var(--ctp-mantle);
-    border-bottom: 2px solid var(--ctp-surface0);
+    border-bottom: 2px solid var(--ctp-surface0); 
     padding: 1rem 0;
     position: sticky;
     top: 0;

@@ -55,7 +55,7 @@
             </div>
             
             <div class="card" v-if="monster.breeding.length > 0">
-                <h2>Breeding Combinations</h2>
+                <h2>Obtaining</h2>
                 <div v-for="breedInfo in monster.breeding" :key="breedInfo.island" class="breeding-section">
                     <h3>{{ breedInfo.island }}</h3>
                     <div class="combos">
