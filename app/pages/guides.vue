@@ -6,22 +6,12 @@
         <div class="guide-grid">
             <NuxtLink to="/guide/shard-farming" class="guide-card">
                 <h3>Shard Farming</h3>
-                <p>Learn how to breed different monsters and understand breeding mechanics</p>
+                <p>Shard farming guide</p>
             </NuxtLink>
             
-            <NuxtLink to="/guide/earning" class="guide-card">
-                <h3>💰 Earning Guide</h3>
-                <p>Maximize your coin and diamond earnings with optimal strategies</p>
-            </NuxtLink>
-            
-            <NuxtLink to="/guide/likes" class="guide-card">
-                <h3>❤️ Likes Guide</h3>
-                <p>Increase monster happiness by placing their favorite items nearby</p>
-            </NuxtLink>
-            
-            <NuxtLink to="/guide/beginners" class="guide-card">
-                <h3>📚 Beginner's Guide</h3>
-                <p>New to the game? Start here to learn the basics</p>
+            <NuxtLink to="/guide/example" class="guide-card">
+                <h3>Example Guide</h3>
+                <p>Example Guide for making new guides</p>
             </NuxtLink>
         </div>
     </div>
